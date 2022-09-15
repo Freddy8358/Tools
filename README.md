@@ -5,3 +5,9 @@
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/Freddy8358/Tools/main/az.sh)
 ```
+
++ ps
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/Freddy8358/Tools/main/ps.sh)
+```
