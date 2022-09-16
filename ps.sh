@@ -11,7 +11,7 @@ apt --purge autoremove *google* -y
 # bbr
 echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
 echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
-echo "net.ipv4.ip_local_port_range = 1024 65535" >> /etc/sysctl.conf
+echo "net.ipv4.ip_local_port_range = 10240 65535" >> /etc/sysctl.conf
 sysctl -p
 
 # ipv4 precedence
