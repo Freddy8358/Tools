@@ -4,6 +4,8 @@
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/Freddy8358/Tools/main/az.sh)
+
+wget -O /tmp/az.sh https://raw.githubusercontent.com/Freddy8358/Tools/main/az.sh && bash /tmp/az.sh && rm -f /tmp/az.sh 
 ```
 
 + ps
