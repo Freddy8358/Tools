@@ -1,5 +1,13 @@
 # Tools
 
++ bbr
+
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/Freddy8358/Tools/main/bbr.sh)
+
+wget -O /tmp/bbr.sh https://raw.githubusercontent.com/Freddy8358/Tools/main/bbr.sh && bash /tmp/bbr.sh && rm -f /tmp/bbr.sh 
+```
+
 + az
 
 ```bash
