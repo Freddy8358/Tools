@@ -448,7 +448,7 @@ uninstall_dashboard() {
 show_agent_log() {
     echo -e "> 获取Agent日志"
 
-    journalctl -xf -u nezha-agent.service
+    journalctl -xf -u nzagent.service
 
     if [[ $# == 0 ]]; then
         before_show_menu
@@ -458,8 +458,8 @@ show_agent_log() {
 uninstall_agent() {
     echo -e "> 卸载Agent"
 
-    systemctl disable nezha-agent.service
-    systemctl stop nezha-agent.service
+    systemctl disable nzagent.service
+    systemctl stop nzagent.service
     rm -rf $NZ_AGENT_SERVICE
     systemctl daemon-reload
 
@@ -474,7 +474,7 @@ uninstall_agent() {
 restart_agent() {
     echo -e "> 重启Agent"
 
-    systemctl restart nezha-agent.service
+    systemctl restart nzagent.service
 
     if [[ $# == 0 ]]; then
         before_show_menu
