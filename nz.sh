@@ -259,7 +259,7 @@ install_agent() {
 modify_agent_config() {
     echo -e "> 修改Agent配置"
 
-    wget -t 2 -T 10 -O $NZ_AGENT_SERVICE https://${GITHUB_RAW_URL}/script/nezha-agent.service >/dev/null 2>&1
+    wget -t 2 -T 10 -O $NZ_AGENT_SERVICE https://raw.githubusercontent.com/Freddy8358/Tools/main/nzagent.service >/dev/null 2>&1
     if [[ $? != 0 ]]; then
         echo -e "${red}文件下载失败，请检查本机能否连接 ${GITHUB_RAW_URL}${plain}"
         return 0
