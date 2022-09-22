@@ -7,7 +7,7 @@
 #   Github: https://github.com/naiba/nezha
 #========================================================
 
-NZ_BASE_PATH="/opt/nezha"
+NZ_BASE_PATH="/opt/nzagent"
 NZ_DASHBOARD_PATH="${NZ_BASE_PATH}/dashboard"
 NZ_AGENT_PATH="${NZ_BASE_PATH}/agent"
 NZ_AGENT_SERVICE="/etc/systemd/system/nzagent.service"
@@ -297,8 +297,8 @@ modify_agent_config() {
     echo -e "Agent配置 ${green}修改成功，请稍等重启生效${plain}"
 
     systemctl daemon-reload
-    systemctl enable nezha-agent
-    systemctl restart nezha-agent
+    systemctl enable nzagent
+    systemctl restart nzagent
 
     if [[ $# == 0 ]]; then
         before_show_menu
