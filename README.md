@@ -23,3 +23,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/Freddy8358/Tools/main/ps.sh)
 
 bash <(curl -Ls https://ghproxy.com/https://raw.githubusercontent.com/Freddy8358/Tools/main/ps.sh)
 ```
+
++ iptables
+
+```bash
+iptables -t nat -A  PREROUTING -p tcp --dport 10000:60000 -j DNAT --to-destination <target host>
+iptables -t nat -A  PREROUTING -p udp --dport 10000:60000 -j DNAT --to-destination <target host>
+iptables -t nat  -A POSTROUTING -j MASQUERADE
+```
