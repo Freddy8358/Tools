@@ -40,8 +40,6 @@ for trackerlist in trackerlists:
         req = requests.get(trackerlist, timeout=(5,10), verify=False)
         req.encoding = req.apparent_encoding
         fnGetTrackerHost(req.text)
-    except TimeoutError:
-        pass
     except Exception as err:
         print("Error:", err)
         continue
