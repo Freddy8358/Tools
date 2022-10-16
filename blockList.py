@@ -44,11 +44,7 @@ for trackerlist in trackerlists:
         pass
     except Exception as err:
         print("Error:", err)
-        con = str(input("Continue?[Y/n]: ")).strip().upper()
-        if len(con)==0 or con=="Y":
-            continue
-        else:
-            break
+        continue
 
 result = list(trackers)
 result.sort()
