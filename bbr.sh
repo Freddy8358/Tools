@@ -29,7 +29,6 @@ net.ipv4.tcp_synack_retries = 3
 net.ipv4.tcp_keepalive_time = 600
 net.ipv4.tcp_syncookies = 1
 net.ipv4.tcp_fin_timeout = 10
-net.ipv4.tcp_tw_recycle = 1
 net.ipv4.tcp_tw_reuse = 1
 net.ipv4.tcp_timestamps = 1
 net.ipv4.tcp_abort_on_overflow = 1
