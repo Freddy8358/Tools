@@ -17,11 +17,11 @@ trackerlists = [
 ]
 
 def is_ip(address):
-	try:
-		IPy.IP(address)
-		return True
-	except:
-		return False
+    try:
+        IPy.IP(address)
+        return True
+    except:
+        return False
 
 def fnGetTrackerHost(ctx):
     global trackers
