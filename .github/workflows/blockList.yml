@@ -2,7 +2,7 @@ name: blockList
 
 on:
   schedule:
-    - cron: 56 15 * * *
+    - cron: 0 16 * * *
   workflow_dispatch:
 
 jobs:
