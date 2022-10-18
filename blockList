@@ -26,6 +26,7 @@ domain:carr.codes
 domain:chouchou.top
 domain:concen.org
 domain:creative.7o7.cx
+domain:cutiegirl.ru
 domain:cutscloud.duckdns.org
 domain:download.nerocloud.me
 domain:epider.me
@@ -46,6 +47,7 @@ domain:keke.re
 domain:kokodayo.site
 domain:laze.cc
 domain:leefafa.tk
+domain:li1406-230.members.linode.com
 domain:madiator.com
 domain:mail.artixlinux.org
 domain:mail.zasaonsk.ga
@@ -71,9 +73,12 @@ domain:public.publictracker.xyz
 domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
+domain:retracker.hotplug.ru
+domain:retracker.lanta-net.ru
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
+domain:share.camoe.cn
 domain:slicie.icon256.com
 domain:smtp-relay.odysseylabel.com.au
 domain:static.202.35.76.144.clients.your-server.de
@@ -92,6 +97,7 @@ domain:tr.abiir.top
 domain:tr.abir.ga
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
+domain:tr.cili001.com
 domain:tr.fuckbitcoin.xyz
 domain:tracker-udp.gbitt.info
 domain:tracker.4.babico.name.tr
@@ -109,8 +115,8 @@ domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
+domain:tracker.edkj.club
 domain:tracker.electro-torrent.pl
-domain:tracker.expli.top
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.foreverpirates.co
@@ -126,7 +132,6 @@ domain:tracker.lilithraws.cf
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
 domain:tracker.m-team.cc
-domain:tracker.moeblog.cn
 domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
@@ -148,12 +153,16 @@ domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.vrpnet.org
 domain:tracker.yangxiaoguozi.cn
+domain:tracker.zemoj.com
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
+domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
+domain:tracker2.itzmx.com
 domain:tracker3.ctix.cn
+domain:tracker3.itzmx.com
 domain:tracker4.itzmx.com
 domain:tracker6.lelux.fi
 domain:trackme.theom.nz
@@ -171,3 +180,13 @@ domain:xtremex.herokuapp.com
 domain:yahor.ftp.sh
 domain:yann5.hexanyn.fr
 domain:zecircle.xyz
+ip:184.105.151.166
+ip:2001:1b10:1000:8101:0:242:ac11:2
+ip:2001:470:1:189:0:1:2:3
+ip:207.241.226.111
+ip:207.241.231.226
+ip:2a03:7220:8083:cd00::1
+ip:2a04:ac00:1:3dd8::1:2710
+ip:2a0f:e586:f:f::220
+ip:52.58.128.163
+ip:91.216.110.52
