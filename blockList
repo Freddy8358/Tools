@@ -60,7 +60,6 @@ domain:nyaa.tracker.wf
 domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
-domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -90,13 +89,13 @@ domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
-domain:theodoric.fr
 domain:thouvenin.cloud
 domain:torrentclub.space
 domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.abiir.top
 domain:tr.abir.ga
+domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tr.fuckbitcoin.xyz
@@ -182,7 +181,6 @@ domain:www.torrent.eu.org
 domain:www.wareztorrent.com
 domain:xtremex.herokuapp.com
 domain:yahor.ftp.sh
-domain:yann5.hexanyn.fr
 domain:zecircle.xyz
 ip:184.105.151.166
 ip:2001:1b10:1000:8101:0:242:ac11:2
