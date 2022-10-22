@@ -1,5 +1,7 @@
 # Tools
 
+[![blockList](https://github.com/Freddy8358/Tools/actions/workflows/blockList.yml/badge.svg)](https://github.com/Freddy8358/Tools/actions/workflows/blockList.yml)
+
 + bbr
 
 ```bash

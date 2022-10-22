@@ -17,11 +17,11 @@ trackerlists = [
 ]
 
 def is_ip(address):
-	try:
-		IPy.IP(address)
-		return True
-	except:
-		return False
+    try:
+        IPy.IP(address)
+        return True
+    except:
+        return False
 
 def fnGetTrackerHost(ctx):
     global trackers
@@ -40,15 +40,9 @@ for trackerlist in trackerlists:
         req = requests.get(trackerlist, timeout=(5,10), verify=False)
         req.encoding = req.apparent_encoding
         fnGetTrackerHost(req.text)
-    except TimeoutError:
-        pass
     except Exception as err:
         print("Error:", err)
-        con = str(input("Continue?[Y/n]: ")).strip().upper()
-        if len(con)==0 or con=="Y":
-            continue
-        else:
-            break
+        continue
 
 result = list(trackers)
 result.sort()
