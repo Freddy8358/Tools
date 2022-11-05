@@ -56,7 +56,6 @@ domain:nyaa.tracker.wf
 domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
-domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -94,6 +93,7 @@ domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.abiir.top
 domain:tr.abir.ga
+domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tr.fuckbitcoin.xyz
@@ -116,6 +116,7 @@ domain:tracker.dler.org
 domain:tracker.electro-torrent.pl
 domain:tracker.encrypted-data.xyz
 domain:tracker.expli.top
+domain:tracker.fansub.id
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.foreverpirates.co
@@ -152,9 +153,8 @@ domain:tracker.tcp.exchange
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
-domain:tracker.wellknownclub.net
+domain:tracker.vrpnet.org
 domain:tracker.yangxiaoguozi.cn
-domain:tracker.zemoj.com
 domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
@@ -179,7 +179,6 @@ domain:www.all4nothin.net
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
 domain:xtremex.herokuapp.com
-domain:yahor.ftp.sh
 domain:zecircle.xyz
 ip:184.105.151.166
 ip:2001:1b10:1000:8101:0:242:ac11:2
