@@ -3,7 +3,6 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.
 regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
-domain:00.xxtor.com
 domain:1337.abcvg.info
 domain:6ahddutb1ucc3cp.ru
 domain:9.rarbg.com
@@ -18,7 +17,6 @@ domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
 domain:bt2.archive.org
-domain:bubu.mapfactor.com
 domain:buddyfly.top
 domain:camera.lei001.com
 domain:carr.codes
@@ -42,10 +40,9 @@ domain:hub.bugout.link
 domain:i-p-v-6.tk
 domain:incine.ru
 domain:ipv4.tracker.harry.lu
+domain:ipv4announce.sktorrent.eu
 domain:ipv6.tracker.harry.lu
-domain:ipv6.tracker.monitorit4.me
 domain:jutone.com
-domain:keke.re
 domain:kokodayo.site
 domain:laze.cc
 domain:leefafa.tk
@@ -66,6 +63,7 @@ domain:open.publictracker.xyz
 domain:open.stealth.si
 domain:open.tracker.ink
 domain:opentor.org
+domain:opentracker.i2p.rocks
 domain:p4p.arenabg.com
 domain:parag.rs
 domain:psyco.fr
@@ -82,6 +80,7 @@ domain:share.camoe.cn
 domain:slicie.icon256.com
 domain:smtp-relay.odysseylabel.com.au
 domain:static.54.161.216.95.clients.your-server.de
+domain:sx.xxtor.com
 domain:t.acg.rip
 domain:t.nyaatracker.com
 domain:t.overflow.biz
@@ -107,7 +106,6 @@ domain:tracker.auctor.tv
 domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
-domain:tracker.blacksparrowmedia.net
 domain:tracker.bt4g.com
 domain:tracker.cubonegro.xyz
 domain:tracker.cyber-hub.net
@@ -118,6 +116,7 @@ domain:tracker.dler.org
 domain:tracker.electro-torrent.pl
 domain:tracker.encrypted-data.xyz
 domain:tracker.expli.top
+domain:tracker.fansub.id
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.foreverpirates.co
@@ -129,7 +128,6 @@ domain:tracker.jonaslsa.com
 domain:tracker.joybomb.tw
 domain:tracker.kuroy.me
 domain:tracker.leech.ie
-domain:tracker.lelux.fi
 domain:tracker.lilithraws.cf
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
@@ -157,7 +155,6 @@ domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.vrpnet.org
 domain:tracker.yangxiaoguozi.cn
-domain:tracker.zemoj.com
 domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
@@ -172,7 +169,6 @@ domain:tracker3.itzmx.com
 domain:tracker4.itzmx.com
 domain:tracker6.lelux.fi
 domain:trackme.theom.nz
-domain:u4.trakx.crim.ist
 domain:uploads.gamecoast.net
 domain:v1046920.hosted-by-vdsina.ru
 domain:vibe.sleepyinternetfun.xyz
@@ -182,7 +178,7 @@ domain:wepzone.net
 domain:www.all4nothin.net
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
-domain:yahor.ftp.sh
+domain:xtremex.herokuapp.com
 domain:zecircle.xyz
 ip:184.105.151.166
 ip:2001:1b10:1000:8101:0:242:ac11:2
