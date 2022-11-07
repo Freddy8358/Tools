@@ -23,7 +23,6 @@ domain:carr.codes
 domain:chouchou.top
 domain:concen.org
 domain:creative.7o7.cx
-domain:cutiegirl.ru
 domain:cutscloud.duckdns.org
 domain:download.nerocloud.me
 domain:epider.me
@@ -33,11 +32,9 @@ domain:f1sh.de
 domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:fosstorrents.com
-domain:ftp.pet
 domain:fxtt.ru
 domain:htz3.noho.st
 domain:hub.bugout.link
-domain:i-p-v-6.tk
 domain:incine.ru
 domain:ipv4.tracker.harry.lu
 domain:ipv4announce.sktorrent.eu
@@ -53,7 +50,6 @@ domain:moonburrow.club
 domain:movies.zsw.ca
 domain:new-line.net
 domain:nyaa.tracker.wf
-domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
 domain:open.acgtracker.com
@@ -69,11 +65,11 @@ domain:p4p.arenabg.com
 domain:parag.rs
 domain:psyco.fr
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
+domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
@@ -87,7 +83,6 @@ domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
-domain:theodoric.fr
 domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrentclub.space
@@ -138,7 +133,7 @@ domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
 domain:tracker.nanoha.org
-domain:tracker.novaopcj.eu.org
+domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
 domain:tracker.opentrackr.org
 domain:tracker.openwebtorrent.com
@@ -172,6 +167,7 @@ domain:tracker6.lelux.fi
 domain:trackme.theom.nz
 domain:uploads.gamecoast.net
 domain:v1046920.hosted-by-vdsina.ru
+domain:v2.iperson.xyz
 domain:vibe.sleepyinternetfun.xyz
 domain:vps02.net.orel.ru
 domain:wepzone.net
@@ -187,6 +183,6 @@ ip:207.241.226.111
 ip:207.241.231.226
 ip:2a03:7220:8083:cd00::1
 ip:2a04:ac00:1:3dd8::1:2710
-ip:2a0f:e586:f:f::220
+ip:2a0f:e586:f:f::81
 ip:52.58.128.163
 ip:91.216.110.52
