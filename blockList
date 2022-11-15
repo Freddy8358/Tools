@@ -13,7 +13,6 @@ domain:acxx.de
 domain:admin.52ywp.com
 domain:admin.videoenpoche.info
 domain:aegir.sexy
-domain:astrr.ru
 domain:bedro.cloud
 domain:black-bird.ynh.fr
 domain:bt.ktrackers.com
@@ -42,7 +41,6 @@ domain:htz3.noho.st
 domain:hub.bugout.link
 domain:incine.ru
 domain:ipv4.tracker.harry.lu
-domain:ipv4announce.sktorrent.eu
 domain:ipv6.tracker.harry.lu
 domain:jutone.com
 domain:kokodayo.site
@@ -57,7 +55,9 @@ domain:movies.zsw.ca
 domain:new-line.net
 domain:nyaa.tracker.wf
 domain:open-tracker.demonoid.ch
+domain:open.4ever.tk
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -73,19 +73,18 @@ domain:parag.rs
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
-domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
 domain:share.camoe.cn
 domain:slicie.icon256.com
 domain:smtp-relay.odysseylabel.com.au
 domain:srv5.digiboy.ir
+domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:sx.xxtor.com
 domain:t.acg.rip
@@ -93,7 +92,7 @@ domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
-domain:theodoric.fr
+domain:themaninashed.com
 domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrentclub.space
@@ -102,7 +101,6 @@ domain:torrentsmd.com
 domain:torrenttracker.nwc.acsalaska.net
 domain:tr.abiir.top
 domain:tr.abir.ga
-domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tr.fuckbitcoin.xyz
@@ -146,6 +144,7 @@ domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
 domain:tracker.nanoha.org
+domain:tracker.noobsubs.net
 domain:tracker.novaopcj.eu.org
 domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
