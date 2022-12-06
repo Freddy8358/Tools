@@ -62,7 +62,6 @@ domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
-domain:open.tracker.cl
 domain:open.tracker.ink
 domain:opentor.org
 domain:opentracker.i2p.rocks
@@ -93,6 +92,7 @@ domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
 domain:themaninashed.com
+domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrentclub.space
 domain:torrents.artixlinux.org
@@ -141,6 +141,7 @@ domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
 domain:tracker.nanoha.org
 domain:tracker.novaopcj.eu.org
+domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
 domain:tracker.opentrackr.org
 domain:tracker.openwebtorrent.com
