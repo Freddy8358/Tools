@@ -45,7 +45,6 @@ domain:ipv6.tracker.harry.lu
 domain:ipv6.tracker.monitorit4.me
 domain:jutone.com
 domain:kokodayo.site
-domain:kristof.bartanet.cz
 domain:laze.cc
 domain:leefafa.tk
 domain:mail.artixlinux.org
@@ -56,6 +55,7 @@ domain:movies.zsw.ca
 domain:new-line.net
 domain:nyaa.tracker.wf
 domain:open-tracker.demonoid.ch
+domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
 domain:open.acgtracker.com
@@ -89,13 +89,11 @@ domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:sx.xxtor.com
 domain:t.acg.rip
-domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
 domain:themaninashed.com
-domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrentclub.space
 domain:torrents.artixlinux.org
@@ -120,7 +118,7 @@ domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
-domain:tracker.electro-torrent.pl
+domain:tracker.edkj.club
 domain:tracker.encrypted-data.xyz
 domain:tracker.filemail.com
 domain:tracker.files.fm
@@ -128,6 +126,7 @@ domain:tracker.foreverpirates.co
 domain:tracker.gbitt.info
 domain:tracker.imgoingto.icu
 domain:tracker.ipv6tracker.ru
+domain:tracker.jiesen.life
 domain:tracker.jonaslsa.com
 domain:tracker.joybomb.tw
 domain:tracker.kuroy.me
@@ -142,7 +141,6 @@ domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
 domain:tracker.nanoha.org
-domain:tracker.novaopcj.eu.org
 domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
 domain:tracker.opentrackr.org
@@ -160,19 +158,14 @@ domain:tracker.tcp.exchange
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
-domain:tracker.yangxiaoguozi.cn
-domain:tracker.zemoj.com
 domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
-domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
-domain:tracker2.itzmx.com
 domain:tracker3.ctix.cn
-domain:tracker4.itzmx.com
 domain:tracker6.lelux.fi
 domain:trackerb.jonaslsa.com
 domain:trackme.theom.nz
