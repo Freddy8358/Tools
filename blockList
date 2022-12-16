@@ -9,6 +9,7 @@ domain:9.rarbg.com
 domain:94-227-232-84.access.telenet.be
 domain:aarsen.me
 domain:acxx.de
+domain:admin.52ywp.com
 domain:aegir.sexy
 domain:astrr.ru
 domain:bedro.cloud
@@ -64,7 +65,6 @@ domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
-domain:open.tracker.cl
 domain:open.tracker.ink
 domain:opentor.org
 domain:opentracker.i2p.rocks
@@ -78,18 +78,16 @@ domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
-domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
-domain:share.camoe.cn
 domain:slicie.icon256.com
 domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:sx.xxtor.com
+domain:t.133335.xyz
 domain:t.acg.rip
-domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
@@ -110,13 +108,11 @@ domain:tracker.altrosky.nl
 domain:tracker.army
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
-domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
 domain:tracker.cangku.moe
 domain:tracker.computel.fr
-domain:tracker.cyber-hub.net
 domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
@@ -142,7 +138,6 @@ domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
 domain:tracker.nanoha.org
-domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
 domain:tracker.opentrackr.org
 domain:tracker.openwebtorrent.com
@@ -159,7 +154,6 @@ domain:tracker.tcp.exchange
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
-domain:tracker.yoshi210.com
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
@@ -177,7 +171,6 @@ domain:v1046920.hosted-by-vdsina.ru
 domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
 domain:vibe.sleepyinternetfun.xyz
-domain:vps-dd0a0715.vps.ovh.net
 domain:vps02.net.orel.ru
 domain:wepzone.net
 domain:www.all4nothin.net
@@ -185,13 +178,3 @@ domain:www.peckservers.com
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
 domain:zecircle.xyz
-ip:184.105.151.166
-ip:2001:1b10:1000:8101:0:242:ac11:2
-ip:2001:470:1:189:0:1:2:3
-ip:207.241.226.111
-ip:207.241.231.226
-ip:2a03:7220:8083:cd00::1
-ip:2a04:ac00:1:3dd8::1:2710
-ip:2a0f:e586:f:f::81
-ip:52.58.128.163
-ip:91.216.110.52
