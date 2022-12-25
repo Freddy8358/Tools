@@ -13,6 +13,7 @@ domain:aegir.sexy
 domain:astrr.ru
 domain:bedro.cloud
 domain:black-bird.ynh.fr
+domain:boysbitte.be
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
@@ -30,6 +31,7 @@ domain:epider.me
 domain:exodus.desync.com
 domain:explodie.org
 domain:f1sh.de
+domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:fosstorrents.com
 domain:free.publictracker.xyz
@@ -41,7 +43,6 @@ domain:i-p-v-6.tk
 domain:ipv4.tracker.harry.lu
 domain:ipv6.1337.cx
 domain:ipv6.govt.hu
-domain:ipv6.tracker.harry.lu
 domain:ipv6.tracker.monitorit4.me
 domain:jutone.com
 domain:kokodayo.site
@@ -75,14 +76,17 @@ domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
+domain:retracker.lanta-net.ru
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
+domain:share.camoe.cn
 domain:slicie.icon256.com
 domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
+domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
@@ -103,7 +107,6 @@ domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
-domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
@@ -150,6 +153,7 @@ domain:tracker.swateam.org.uk
 domain:tracker.tamersunion.org
 domain:tracker.tcp.exchange
 domain:tracker.theoks.net
+domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.yangxiaoguozi.cn
 domain:tracker1.520.jp
@@ -171,8 +175,17 @@ domain:vps-dd0a0715.vps.ovh.net
 domain:vps02.net.orel.ru
 domain:wepzone.net
 domain:www.all4nothin.net
-domain:www.nartlof.com.br
 domain:www.peckservers.com
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
 domain:zecircle.xyz
+ip:184.105.151.166
+ip:2001:1b10:1000:8101:0:242:ac11:2
+ip:2001:470:1:189:0:1:2:3
+ip:207.241.226.111
+ip:207.241.231.226
+ip:2a03:7220:8083:cd00::1
+ip:2a04:ac00:1:3dd8::1:2710
+ip:2a0f:e586:f:f::81
+ip:52.58.128.163
+ip:91.216.110.52
