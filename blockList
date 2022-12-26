@@ -86,7 +86,6 @@ domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
-domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
@@ -107,6 +106,7 @@ domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
@@ -155,10 +155,12 @@ domain:tracker.tcp.exchange
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
+domain:tracker.vraphim.com
 domain:tracker.yangxiaoguozi.cn
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
+domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
 domain:tracker3.ctix.cn
@@ -170,8 +172,6 @@ domain:uploads.gamecoast.net
 domain:v1046920.hosted-by-vdsina.ru
 domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
-domain:vibe.sleepyinternetfun.xyz
-domain:vps-dd0a0715.vps.ovh.net
 domain:vps02.net.orel.ru
 domain:wepzone.net
 domain:www.all4nothin.net
