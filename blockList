@@ -5,6 +5,7 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 # 禁止BT
 domain:107.189.10.20.sslip.io
 domain:1337.abcvg.info
+domain:147job.com
 domain:9.rarbg.com
 domain:aarsen.me
 domain:acxx.de
@@ -36,9 +37,9 @@ domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:fosstorrents.com
 domain:free.publictracker.xyz
+domain:freedom.1776.ga
 domain:fxtt.ru
 domain:htz3.noho.st
-domain:hub.bugout.link
 domain:i-p-v-6.tk
 domain:ipv4.tracker.harry.lu
 domain:ipv6.1337.cx
@@ -58,13 +59,11 @@ domain:nyaa.tracker.wf
 domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
-domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
-domain:open.tracker.cl
 domain:open.tracker.ink
 domain:opentor.org
 domain:opentracker.i2p.rocks
@@ -73,6 +72,7 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
@@ -86,12 +86,12 @@ domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
-domain:t.nyaatracker.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
 domain:themaninashed.com
+domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrentclub.space
 domain:torrents.artixlinux.org
@@ -106,6 +106,7 @@ domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
@@ -159,6 +160,7 @@ domain:tracker.yangxiaoguozi.cn
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
+domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
 domain:tracker3.ctix.cn
