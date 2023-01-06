@@ -24,6 +24,7 @@ domain:concen.org
 domain:creative.7o7.cx
 domain:cutscloud.duckdns.org
 domain:dht.bt251.com
+domain:dn42.smrsh.net
 domain:download.nerocloud.me
 domain:epider.me
 domain:exodus.desync.com
@@ -62,7 +63,6 @@ domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
-domain:open.tracker.cl
 domain:open.tracker.ink
 domain:opentor.org
 domain:opentracker.i2p.rocks
@@ -90,14 +90,12 @@ domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
 domain:themaninashed.com
-domain:theodoric.fr
 domain:thouvenin.cloud
 domain:torrentclub.space
 domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.abiir.top
 domain:tr.abir.ga
-domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tracker-udp.gbitt.info
@@ -105,6 +103,7 @@ domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
@@ -137,12 +136,10 @@ domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
 domain:tracker.nanoha.org
-domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
 domain:tracker.opentrackr.org
 domain:tracker.openwebtorrent.com
 domain:tracker.pimpmyworld.to
-domain:tracker.pomf.se
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
 domain:tracker.skynetcloud.site
@@ -154,6 +151,7 @@ domain:tracker.tcp.exchange
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
+domain:tracker.tvgc.win
 domain:tracker.yangxiaoguozi.cn
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
