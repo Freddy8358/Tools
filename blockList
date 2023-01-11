@@ -5,7 +5,6 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 # 禁止BT
 domain:107.189.10.20.sslip.io
 domain:1337.abcvg.info
-domain:504e163a.host.njalla.net
 domain:9.rarbg.com
 domain:aarsen.me
 domain:acxx.de
@@ -75,19 +74,19 @@ domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
+domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
 domain:share.camoe.cn
 domain:slicie.icon256.com
 domain:stargrave.org
+domain:static.202.35.76.144.clients.your-server.de
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
-domain:t.nyaatracker.com
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
-domain:themaninashed.com
 domain:thouvenin.cloud
 domain:torrentclub.space
 domain:torrents.artixlinux.org
@@ -106,7 +105,6 @@ domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
-domain:tracker.computel.fr
 domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
@@ -164,7 +162,6 @@ domain:trackme.theom.nz
 domain:u4.trakx.crim.ist
 domain:uploads.gamecoast.net
 domain:v1046920.hosted-by-vdsina.ru
-domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
 domain:vibe.sleepyinternetfun.xyz
 domain:vps-dd0a0715.vps.ovh.net
