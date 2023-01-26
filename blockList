@@ -15,7 +15,6 @@ domain:astrr.ru
 domain:bedro.cloud
 domain:black-bird.ynh.fr
 domain:boysbitte.be
-domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
@@ -26,6 +25,7 @@ domain:chouchou.top
 domain:concen.org
 domain:cutscloud.duckdns.org
 domain:dht.bt251.com
+domain:dht.dhtclub.com
 domain:download.nerocloud.me
 domain:epider.me
 domain:exodus.desync.com
@@ -55,6 +55,7 @@ domain:nyaa.tracker.wf
 domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -68,6 +69,8 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public-tracker.ml
+domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
@@ -97,10 +100,10 @@ domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tracker-udp.gbitt.info
 domain:tracker.4.babico.name.tr
-domain:tracker.aibt.xyz
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
@@ -151,6 +154,7 @@ domain:tracker.yangxiaoguozi.cn
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
+domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
 domain:tracker3.ctix.cn
