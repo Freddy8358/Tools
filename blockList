@@ -21,6 +21,7 @@ domain:bt1.archive.org
 domain:bt2.archive.org
 domain:camera.lei001.com
 domain:carr.codes
+domain:chihaya.de
 domain:chouchou.top
 domain:concen.org
 domain:cutscloud.duckdns.org
@@ -38,6 +39,7 @@ domain:freedom.1776.ga
 domain:htz3.noho.st
 domain:hub.bugout.link
 domain:i-p-v-6.tk
+domain:incine.ru
 domain:ipv4.tracker.harry.lu
 domain:ipv6.1337.cx
 domain:ipv6.69.mu
@@ -54,7 +56,6 @@ domain:nyaa.tracker.wf
 domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
-domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -69,20 +70,22 @@ domain:private.anonseed.com
 domain:psyco.fr
 domain:public-tracker.ml
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
+domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
 domain:share.camoe.cn
 domain:slicie.icon256.com
+domain:smtp.loki.tel
 domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
+domain:t.nyaatracker.com
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
@@ -100,6 +103,7 @@ domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bt4g.com
@@ -147,7 +151,7 @@ domain:tracker.tamersunion.org
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
-domain:tracker.yangxiaoguozi.cn
+domain:tracker.zaluan.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
