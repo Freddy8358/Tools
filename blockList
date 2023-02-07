@@ -56,6 +56,7 @@ domain:nyaa.tracker.wf
 domain:open-v6.demonoid.ch
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -70,7 +71,6 @@ domain:private.anonseed.com
 domain:psyco.fr
 domain:public-tracker.ml
 domain:public.publictracker.xyz
-domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
@@ -95,7 +95,6 @@ domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.abiir.top
 domain:tr.abir.ga
-domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tracker-udp.gbitt.info
