@@ -14,10 +14,10 @@ domain:astrr.ru
 domain:bedro.cloud
 domain:black-bird.ynh.fr
 domain:boysbitte.be
+domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
-domain:bt1.letpo.com
 domain:bt2.archive.org
 domain:camera.lei001.com
 domain:carr.codes
@@ -26,6 +26,7 @@ domain:concen.org
 domain:cutscloud.duckdns.org
 domain:dht.bt251.com
 domain:dht.dhtclub.com
+domain:dns.xxtor.com
 domain:download.nerocloud.me
 domain:epider.me
 domain:exodus.desync.com
@@ -46,7 +47,6 @@ domain:ipv6.govt.hu
 domain:ipv6.tracker.monitorit4.me
 domain:laze.cc
 domain:mail.artixlinux.org
-domain:mail.zasaonsk.ga
 domain:mirror.aptus.co.tz
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -73,6 +73,7 @@ domain:qtstm32fan.ru
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
+domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:sanincode.com
 domain:share.camoe.cn
@@ -129,7 +130,6 @@ domain:tracker.moeblog.cn
 domain:tracker.moeking.me
 domain:tracker.monitorit4.me
 domain:tracker.mywaifu.best
-domain:tracker.nitrix.me
 domain:tracker.openbittorrent.com
 domain:tracker.openbtba.com
 domain:tracker.opentrackr.org
@@ -171,6 +171,7 @@ domain:www.all4nothin.net
 domain:www.peckservers.com
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
+domain:z.mercax.com
 domain:zecircle.xyz
 ip:184.105.151.166
 ip:2001:1b10:1000:8101:0:242:ac11:2
