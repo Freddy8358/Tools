@@ -19,6 +19,7 @@ domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
+domain:bt1.letpo.com
 domain:bt2.archive.org
 domain:camera.lei001.com
 domain:carr.codes
@@ -76,10 +77,8 @@ domain:run.publictracker.xyz
 domain:sanincode.com
 domain:share.camoe.cn
 domain:slicie.icon256.com
-domain:smtp.loki.tel
 domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
-domain:t.133335.xyz
 domain:t.acg.rip
 domain:t.nyaatracker.com
 domain:t1.hloli.org
@@ -98,10 +97,12 @@ domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.beeimg.com
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cubonegro.xyz
 domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
@@ -148,7 +149,6 @@ domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
 domain:tracker2.ctix.cn
-domain:tracker2.dler.com
 domain:tracker2.dler.org
 domain:tracker3.ctix.cn
 domain:tracker6.lelux.fi
