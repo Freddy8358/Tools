@@ -26,7 +26,6 @@ domain:chouchou.top
 domain:concen.org
 domain:cutscloud.duckdns.org
 domain:dht.dhtclub.com
-domain:dns.xxtor.com
 domain:download.nerocloud.me
 domain:epider.me
 domain:exodus.desync.com
@@ -135,11 +134,11 @@ domain:tracker.openwebtorrent.com
 domain:tracker.pimpmyworld.to
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
+domain:tracker.renfei.net
 domain:tracker.skynetcloud.site
 domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.swateam.org.uk
-domain:tracker.swifte.space
 domain:tracker.tamersunion.org
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
@@ -160,6 +159,7 @@ domain:v1046920.hosted-by-vdsina.ru
 domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
 domain:vps02.net.orel.ru
+domain:web.open-tracker.cf
 domain:wepzone.net
 domain:www.all4nothin.net
 domain:www.peckservers.com
