@@ -46,10 +46,12 @@ domain:new-line.net
 domain:nyaa.tracker.wf
 domain:open.4ever.tk
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.publictracker.xyz
 domain:open.stealth.si
+domain:open.tracker.cl
 domain:open.tracker.ink
 domain:opentor.org
 domain:opentracker.i2p.rocks
@@ -60,7 +62,6 @@ domain:parag.rs
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
@@ -104,7 +105,6 @@ domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
-domain:tracker.edkj.club
 domain:tracker.expli.top
 domain:tracker.filemail.com
 domain:tracker.files.fm
@@ -133,7 +133,6 @@ domain:tracker.pimpmyworld.to
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
 domain:tracker.renfei.net
-domain:tracker.skynetcloud.site
 domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.swateam.org.uk
@@ -158,6 +157,7 @@ domain:uploads.gamecoast.net
 domain:v1046920.hosted-by-vdsina.ru
 domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
+domain:vps-dd0a0715.vps.ovh.net
 domain:vps02.net.orel.ru
 domain:web.open-tracker.cf
 domain:wepzone.net
