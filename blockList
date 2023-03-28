@@ -63,6 +63,7 @@ domain:parag.rs
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
@@ -85,12 +86,12 @@ domain:thouvenin.cloud
 domain:torrent-tracker.hama3.net
 domain:torrents.artixlinux.org
 domain:torrentsmd.com
-domain:torrenttracker.nwc.acsalaska.net
 domain:tr.abiir.top
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
 domain:tr.ready4.icu
+domain:tr2.cubonegro.lol
 domain:tracker-udp.gbitt.info
 domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
@@ -114,7 +115,6 @@ domain:tracker.files.fm
 domain:tracker.foreverpirates.co
 domain:tracker.gbitt.info
 domain:tracker.imgoingto.icu
-domain:tracker.jiesen.life
 domain:tracker.jonaslsa.com
 domain:tracker.joybomb.tw
 domain:tracker.kuroy.me
@@ -144,7 +144,6 @@ domain:tracker.yangxiaoguozi.cn
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.myporn.club
-domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
 domain:tracker3.ctix.cn
@@ -163,7 +162,6 @@ domain:wepzone.net
 domain:www.2600.com
 domain:www.all4nothin.net
 domain:www.peckservers.com
-domain:www.torrent.eu.org
 domain:www.wareztorrent.com
 domain:zecircle.xyz
 ip:184.105.151.166
