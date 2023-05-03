@@ -4,6 +4,7 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
 domain:1337.abcvg.info
+domain:6ahddutb1ucc3cp.ru
 domain:9.rarbg.com
 domain:aarsen.me
 domain:acxx.de
@@ -40,6 +41,7 @@ domain:movies.zsw.ca
 domain:new-line.net
 domain:nyaa.tracker.wf
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.stealth.si
@@ -65,7 +67,6 @@ domain:stargrave.org
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
-domain:t.nyaatracker.com
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
@@ -93,6 +94,7 @@ domain:tracker.cubonegro.lol
 domain:tracker.cyberia.is
 domain:tracker.dler.com
 domain:tracker.dler.org
+domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.foreverpirates.co
@@ -102,6 +104,7 @@ domain:tracker.ipv6tracker.ru
 domain:tracker.jiesen.life
 domain:tracker.jonaslsa.com
 domain:tracker.joybomb.tw
+domain:tracker.k.vu
 domain:tracker.kuroy.me
 domain:tracker.leech.ie
 domain:tracker.lilithraws.cf
@@ -124,14 +127,12 @@ domain:tracker.tamersunion.org
 domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
-domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.com
 domain:tracker2.dler.org
-domain:tracker6.lelux.fi
 domain:trackerb.jonaslsa.com
 domain:u4.trakx.crim.ist
 domain:u6.trakx.crim.ist
