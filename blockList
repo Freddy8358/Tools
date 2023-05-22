@@ -31,7 +31,6 @@ domain:hub.bugout.link
 domain:inferno.demonoid.is
 domain:ipv6.fuuuuuck.com
 domain:ipv6.tracker.monitorit4.me
-domain:jutone.com
 domain:laze.cc
 domain:linfan.moe
 domain:mail.artixlinux.org
@@ -42,11 +41,11 @@ domain:new-line.net
 domain:nyaa.tracker.wf
 domain:oh.fuuuuuck.com
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.stealth.si
 domain:open.tracker.ink
-domain:opentor.org
 domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:p2p.0g.cx
@@ -54,6 +53,7 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
@@ -66,7 +66,7 @@ domain:shogiroom.com
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
-domain:t.zerg.pw
+domain:t.nyaatracker.com
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
