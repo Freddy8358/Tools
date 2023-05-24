@@ -34,6 +34,7 @@ domain:ipv6.tracker.monitorit4.me
 domain:laze.cc
 domain:linfan.moe
 domain:mail.artixlinux.org
+domain:mail.lakameraobscura.com
 domain:montreal.nyap2p.com
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -41,7 +42,6 @@ domain:new-line.net
 domain:nyaa.tracker.wf
 domain:oh.fuuuuuck.com
 domain:open.acgnxtracker.com
-domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.stealth.si
@@ -54,7 +54,6 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
@@ -71,10 +70,10 @@ domain:t.acg.rip
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
-domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrents.artixlinux.org
 domain:torrentsmd.com
+domain:torrenttracker.nwc.acsalaska.net
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
@@ -94,7 +93,6 @@ domain:tracker.cubonegro.lol
 domain:tracker.cyberia.is
 domain:tracker.dler.com
 domain:tracker.dler.org
-domain:tracker.edkj.club
 domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.files.fm
@@ -130,6 +128,7 @@ domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.trojangogogo.site
+domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
@@ -144,6 +143,7 @@ domain:v1046920.hosted-by-vdsina.ru
 domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
 domain:vps-dd0a0715.vps.ovh.net
+domain:vps02.net.orel.ru
 domain:wepzone.net
 domain:www.all4nothin.net
 domain:www.peckservers.com
