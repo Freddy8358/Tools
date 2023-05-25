@@ -14,7 +14,6 @@ domain:black-bird.ynh.fr
 domain:boysbitte.be
 domain:bt.endpot.com
 domain:bt.ktrackers.com
-domain:bt.okmp3.ru
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:carr.codes
@@ -34,7 +33,6 @@ domain:ipv6.tracker.monitorit4.me
 domain:laze.cc
 domain:linfan.moe
 domain:mail.artixlinux.org
-domain:mail.lakameraobscura.com
 domain:montreal.nyap2p.com
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -63,13 +61,13 @@ domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:share.camoe.cn
-domain:shogiroom.com
 domain:static.54.161.216.95.clients.your-server.de
 domain:t.133335.xyz
 domain:t.acg.rip
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
+domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrents.artixlinux.org
 domain:torrentsmd.com
@@ -81,7 +79,6 @@ domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
-domain:tracker.arcbox.cc
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
 domain:tracker.birkenwald.de
@@ -93,6 +90,7 @@ domain:tracker.cubonegro.lol
 domain:tracker.cyberia.is
 domain:tracker.dler.com
 domain:tracker.dler.org
+domain:tracker.edkj.club
 domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.files.fm
@@ -128,7 +126,6 @@ domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.trojangogogo.site
-domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
@@ -149,6 +146,7 @@ domain:www.all4nothin.net
 domain:www.peckservers.com
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
+domain:zecircle.xyz
 ip:184.105.151.166
 ip:2001:1b10:1000:8101:0:242:ac11:2
 ip:2001:470:1:189:0:1:2:3
