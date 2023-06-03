@@ -31,6 +31,7 @@ domain:concen.org
 domain:d40969.acod.regrucolo.ru
 domain:dex.email
 domain:dmitrynegoda.com
+domain:download.nerocloud.me
 domain:ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 domain:epider.me
 domain:exodus.desync.com
@@ -108,7 +109,6 @@ domain:torrentsmd.com
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
-domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.4.babico.name.tr
 domain:tracker.altrosky.nl
@@ -116,14 +116,12 @@ domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
 domain:tracker.birkenwald.de
 domain:tracker.bitsearch.to
-domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cubonegro.lol
 domain:tracker.cyberia.is
 domain:tracker.dler.com
 domain:tracker.dler.org
-domain:tracker.edkj.club
 domain:tracker.fansub.id
 domain:tracker.farted.net
 domain:tracker.filemail.com
@@ -149,7 +147,6 @@ domain:tracker.mywaifu.best
 domain:tracker.openbittorrent.com
 domain:tracker.opentrackr.org
 domain:tracker.openwebtorrent.com
-domain:tracker.pimpmyworld.to
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
 domain:tracker.renfei.net
@@ -161,7 +158,6 @@ domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.trojangogogo.site
-domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
@@ -183,6 +179,7 @@ domain:vps02.net.orel.ru
 domain:wepzone.net
 domain:wg.mortis.me
 domain:www.all4nothin.net
+domain:www.chouchou.club
 domain:www.peckservers.com
 domain:www.torrent.eu.org
 domain:www.wareztorrent.com
