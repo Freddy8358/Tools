@@ -25,12 +25,11 @@ domain:bt2.archive.org
 domain:c-71-227-163-17.hsd1.wa.comcast.net
 domain:canardscitrons.nohost.me
 domain:carr.codes
-domain:ch3oh.ru
 domain:city21.pk
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
-domain:dmitrynegoda.com
 domain:download.nerocloud.me
+domain:dyndns.xionxiii.ovh
 domain:ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 domain:epider.me
 domain:exodus.desync.com
@@ -60,6 +59,7 @@ domain:ns575949.ip-51-222-82.net
 domain:nullzone.fr
 domain:nyaa.tracker.wf
 domain:oh.fuuuuuck.com
+domain:open.8a.is
 domain:open.acgnxtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
@@ -69,12 +69,13 @@ domain:open.u-p.pw
 domain:opentor.org
 domain:opentracker.i2p.rocks
 domain:opentracker.io
+domain:p2p.0g.cx
+domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:psyco.fr
 domain:public-tracker.cf
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:region.nl1.privex.cc
 domain:rep-art.ynh.fr
 domain:retracker.hotplug.ru
@@ -116,7 +117,6 @@ domain:tracker.bitsearch.to
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
-domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.cyberia.is
 domain:tracker.dler.com
@@ -157,7 +157,6 @@ domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.trojangogogo.site
-domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
