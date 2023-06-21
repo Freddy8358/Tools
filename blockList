@@ -15,7 +15,6 @@ domain:astrr.ru
 domain:astrra.space
 domain:black-bird.ynh.fr
 domain:boysbitte.be
-domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
@@ -23,7 +22,6 @@ domain:bt2.archive.org
 domain:c-71-227-163-17.hsd1.wa.comcast.net
 domain:canardscitrons.nohost.me
 domain:carr.codes
-domain:ch3oh.ru
 domain:city21.pk
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -32,6 +30,7 @@ domain:ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 domain:epider.me
 domain:exodus.desync.com
 domain:explodie.org
+domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:globalwave.no-ip.org
@@ -39,7 +38,9 @@ domain:home.kray.pw
 domain:htz3.noho.st
 domain:hub.bugout.link
 domain:inferno.demonoid.is
+domain:ipv6.1337.cx
 domain:ipv6.fuuuuuck.com
+domain:ipv6.govt.hu
 domain:ipv6.tracker.monitorit4.me
 domain:isk.richardsw.club
 domain:li2021-95.members.linode.com
@@ -55,6 +56,7 @@ domain:ns1.monolithindustries.com
 domain:nyaa.tracker.wf
 domain:odd-hd.fr
 domain:oh.fuuuuuck.com
+domain:open-v6.demonoid.ch
 domain:open.8a.is
 domain:open.acgnxtracker.com
 domain:open.demonii.com
@@ -73,10 +75,12 @@ domain:private.anonseed.com
 domain:psyco.fr
 domain:public-tracker.cf
 domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
 domain:region.nl1.privex.cc
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
+domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
@@ -92,7 +96,6 @@ domain:t.zerg.pw
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:thagoat.rocks
-domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:tk1.trackerservers.com
 domain:tk1v6.trackerservers.com
@@ -154,6 +157,7 @@ domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
+domain:tracker.zerobytes.xyz
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
