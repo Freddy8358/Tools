@@ -6,7 +6,6 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 domain:107.182.30.76.16clouds.com
 domain:1337.abcvg.info
 domain:1c.premierzal.ru
-domain:204.79.238.89.in-addr.arpa.manitu.net
 domain:6.pocketnet.app
 domain:6ahddutb1ucc3cp.ru
 domain:aarsen.me
@@ -29,19 +28,19 @@ domain:ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 domain:epider.me
 domain:escalaenbernal.com
 domain:exodus.desync.com
-domain:explodie.org
 domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
+domain:freedomalternative.com
 domain:globalwave.no-ip.org
 domain:htz3.noho.st
 domain:hub.bugout.link
 domain:incine.ru
 domain:inferno.demonoid.is
 domain:ipv4announce.sktorrent.eu
+domain:ipv6.1337.cx
 domain:ipv6.fuuuuuck.com
 domain:ipv6.govt.hu
-domain:isk.richardsw.club
 domain:li2021-95.members.linode.com
 domain:mail.artixlinux.org
 domain:mail.segso.net
@@ -76,11 +75,9 @@ domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
-domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:share.camoe.cn
-domain:shubt.net
 domain:soundmovie.ru
 domain:ssb14.nohost.me
 domain:static.54.161.216.95.clients.your-server.de
@@ -100,6 +97,7 @@ domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
+domain:tr.cili001.com
 domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
@@ -109,6 +107,7 @@ domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
 domain:tracker.bangumi.zip
 domain:tracker.birkenwald.de
+domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
@@ -117,6 +116,7 @@ domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
+domain:tracker.edkj.club
 domain:tracker.electro-torrent.pl
 domain:tracker.farted.net
 domain:tracker.filemail.com
@@ -163,7 +163,6 @@ domain:tracker2.dler.org
 domain:tracker2.itzmx.com
 domain:tracker3.itzmx.com
 domain:tracker4.itzmx.com
-domain:trackerb.jonaslsa.com
 domain:trackers.mlsub.net
 domain:ttk2.nbaonlineservice.com
 domain:u4.trakx.crim.ist
