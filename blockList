@@ -20,7 +20,6 @@ domain:bt1.archive.org
 domain:bt2.archive.org
 domain:canardscitrons.nohost.me
 domain:carr.codes
-domain:ch3oh.ru
 domain:city21.pk
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -50,10 +49,11 @@ domain:new-line.net
 domain:nyaa.tracker.wf
 domain:odd-hd.fr
 domain:oh.fuuuuuck.com
+domain:open.8a.is
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
-domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
 domain:open.tracker.ink
@@ -68,7 +68,6 @@ domain:psyco.fr
 domain:public-tracker.cf
 domain:public.publictracker.xyz
 domain:public.tracker.vraphim.com
-domain:region.nl1.privex.cc
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
@@ -77,7 +76,6 @@ domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:share.camoe.cn
-domain:shubt.net
 domain:soundmovie.ru
 domain:ssb14.nohost.me
 domain:static.54.161.216.95.clients.your-server.de
@@ -97,7 +95,6 @@ domain:torrentsmd.com
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.cili001.com
-domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
@@ -117,6 +114,7 @@ domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.dump.cl
+domain:tracker.edkj.club
 domain:tracker.electro-torrent.pl
 domain:tracker.farted.net
 domain:tracker.filemail.com
@@ -154,7 +152,6 @@ domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
-domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.ctix.cn
 domain:tracker2.dler.com
@@ -162,7 +159,6 @@ domain:tracker2.dler.org
 domain:tracker2.itzmx.com
 domain:tracker3.itzmx.com
 domain:tracker4.itzmx.com
-domain:trackers.mlsub.net
 domain:ttk2.nbaonlineservice.com
 domain:u4.trakx.crim.ist
 domain:uploads.gamecoast.net
