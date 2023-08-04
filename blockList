@@ -13,7 +13,6 @@ domain:aegir.sexy
 domain:anzix.net
 domain:black-bird.ynh.fr
 domain:boysbitte.be
-domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
@@ -27,7 +26,6 @@ domain:download.nerocloud.me
 domain:ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 domain:epider.me
 domain:exodus.desync.com
-domain:explodie.org
 domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
@@ -44,16 +42,15 @@ domain:market-re.quest
 domain:montreal.nyap2p.com
 domain:moonburrow.club
 domain:movies.zsw.ca
-domain:netmap.top
 domain:new-line.net
 domain:nyaa.tracker.wf
 domain:odd-hd.fr
 domain:oh.fuuuuuck.com
 domain:open.8a.is
 domain:open.acgnxtracker.com
-domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
+domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
 domain:open.tracker.ink
@@ -68,6 +65,7 @@ domain:psyco.fr
 domain:public-tracker.cf
 domain:public.publictracker.xyz
 domain:public.tracker.vraphim.com
+domain:region.nl1.privex.cc
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
@@ -94,7 +92,7 @@ domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
-domain:tr.cili001.com
+domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
@@ -156,9 +154,8 @@ domain:tracker1.myporn.club
 domain:tracker2.ctix.cn
 domain:tracker2.dler.com
 domain:tracker2.dler.org
-domain:tracker2.itzmx.com
-domain:tracker3.itzmx.com
 domain:tracker4.itzmx.com
+domain:trackers.mlsub.net
 domain:ttk2.nbaonlineservice.com
 domain:u4.trakx.crim.ist
 domain:uploads.gamecoast.net
@@ -169,7 +166,6 @@ domain:vm3268418.24ssd.had.wf
 domain:wepzone.net
 domain:www.all4nothin.net
 domain:www.chouchou.club
-domain:www.peckservers.com
 domain:www.wareztorrent.com
 domain:yahor.of.by
 ip:119.28.71.45
