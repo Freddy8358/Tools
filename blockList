@@ -14,6 +14,7 @@ domain:anzix.net
 domain:bedro.cloud
 domain:black-bird.ynh.fr
 domain:boysbitte.be
+domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
@@ -21,7 +22,6 @@ domain:bt2.archive.org
 domain:buny.uk
 domain:canardscitrons.nohost.me
 domain:carr.codes
-domain:ch3oh.ru
 domain:city21.pk
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -34,12 +34,11 @@ domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:freedomalternative.com
-domain:globalwave.no-ip.org
 domain:htz3.noho.st
 domain:hub.bugout.link
 domain:incine.ru
 domain:ipv6.fuuuuuck.com
-domain:isk.richardsw.club
+domain:li2021-95.members.linode.com
 domain:mail.artixlinux.org
 domain:mail.segso.net
 domain:market-re.quest
@@ -54,6 +53,7 @@ domain:odd-hd.fr
 domain:oh.fuuuuuck.com
 domain:open.8a.is
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -71,6 +71,7 @@ domain:psyco.fr
 domain:public-tracker.cf
 domain:public.publictracker.xyz
 domain:public.tracker.vraphim.com
+domain:region.nl1.privex.cc
 domain:retracker.hotplug.ru
 domain:retracker.lanta-net.ru
 domain:retracker01-msk-virt.corbina.net
@@ -88,7 +89,6 @@ domain:sx.xxtor.com
 domain:t.133335.xyz
 domain:t.acg.rip
 domain:t.nyaatracker.com
-domain:t.publictracker.xyz
 domain:t.zerg.pw
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
@@ -100,7 +100,6 @@ domain:torrents.artixlinux.org
 domain:torrentsmd.com
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
-domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
@@ -119,8 +118,6 @@ domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
-domain:tracker.dump.cl
-domain:tracker.edkj.club
 domain:tracker.electro-torrent.pl
 domain:tracker.farted.net
 domain:tracker.filemail.com
@@ -136,7 +133,6 @@ domain:tracker.leech.ie
 domain:tracker.lilithraws.cf
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
-domain:tracker.moeblog.cn
 domain:tracker.moeking.me
 domain:tracker.mywaifu.best
 domain:tracker.openbittorrent.com
@@ -174,6 +170,7 @@ domain:vm3268418.24ssd.had.wf
 domain:wepzone.net
 domain:www.all4nothin.net
 domain:www.chouchou.club
+domain:www.peckservers.com
 domain:www.wareztorrent.com
 domain:yahor.of.by
 ip:119.28.71.45
