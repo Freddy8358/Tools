@@ -3,6 +3,7 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.
 regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
+domain:107.182.30.76.16clouds.com
 domain:1337.abcvg.info
 domain:1c.premierzal.ru
 domain:6.pocketnet.app
@@ -34,6 +35,7 @@ domain:htz3.noho.st
 domain:hub.bugout.link
 domain:ipv6.fuuuuuck.com
 domain:isk.richardsw.club
+domain:linfan.moe
 domain:mail.artixlinux.org
 domain:mail.segso.net
 domain:montreal.nyap2p.com
@@ -57,7 +59,6 @@ domain:open.u-p.pw
 domain:opentor.org
 domain:opentracker.i2p.rocks
 domain:opentracker.io
-domain:p2p.0g.cx
 domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:psyco.fr
@@ -71,6 +72,7 @@ domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:share.camoe.cn
+domain:shubt.net
 domain:soundmovie.ru
 domain:ssb14.nohost.me
 domain:static.54.161.216.95.clients.your-server.de
@@ -86,6 +88,7 @@ domain:thouvenin.cloud
 domain:tk1.trackerservers.com
 domain:tk1v6.trackerservers.com
 domain:torrents.artixlinux.org
+domain:torrentsmd.com
 domain:tr.bangumi.moe
 domain:tr.burnabyhighstar.com
 domain:tr.ready4.icu
@@ -107,10 +110,12 @@ domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.edkj.club
+domain:tracker.electro-torrent.pl
 domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
+domain:tracker.foreverpirates.co
 domain:tracker.gbitt.info
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.ru
@@ -155,8 +160,10 @@ domain:v2.iperson.xyz
 domain:v6-tracker.0g.cx
 domain:vm3268418.24ssd.had.wf
 domain:wepzone.net
+domain:www.all4nothin.net
 domain:www.chouchou.club
 domain:www.peckservers.com
+domain:www.wareztorrent.com
 domain:yahor.of.by
 ip:119.28.71.45
 ip:184.105.151.166
