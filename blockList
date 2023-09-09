@@ -18,7 +18,6 @@ domain:bt.ktrackers.com
 domain:bt.okmp3.ru
 domain:bt1.archive.org
 domain:bt2.archive.org
-domain:buny.uk
 domain:carr.codes
 domain:city21.pk
 domain:concen.org
@@ -79,7 +78,6 @@ domain:shubt.net
 domain:soundmovie.ru
 domain:static.54.161.216.95.clients.your-server.de
 domain:su-data.com
-domain:t.133335.xyz
 domain:t.acg.rip
 domain:t.nyaatracker.com
 domain:t1.hloli.org
@@ -109,6 +107,7 @@ domain:tracker.cyberia.is
 domain:tracker.ddunlimited.net
 domain:tracker.dler.com
 domain:tracker.dler.org
+domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.electro-torrent.pl
 domain:tracker.filemail.com
@@ -116,10 +115,11 @@ domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.foreverpirates.co
 domain:tracker.gbitt.info
-domain:tracker.internetwarriors.net
+domain:tracker.h0me.cc
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.ru
 domain:tracker.kuroy.me
+domain:tracker.leech.ie
 domain:tracker.lilithraws.cf
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
@@ -131,7 +131,6 @@ domain:tracker.openwebtorrent.com
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
 domain:tracker.renfei.net
-domain:tracker.sheesh.rip
 domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.swateam.org.uk
@@ -173,10 +172,12 @@ ip:2001:1b10:1000:8101:0:242:ac11:2
 ip:2001:470:1:189:0:1:2:3
 ip:207.241.226.111
 ip:207.241.231.226
+ip:2a00:b700:1::3:1dc
 ip:2a01:4f8:c012:8025::1
 ip:2a03:7220:8083:cd00::1
 ip:2a04:ac00:1:3dd8::1:2710
 ip:2a0f:e586:f:f::81
+ip:46.17.46.112
 ip:49.12.76.8
 ip:52.58.128.163
 ip:91.216.110.52
