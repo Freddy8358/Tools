@@ -11,7 +11,6 @@ domain:aarsen.me
 domain:acxx.de
 domain:aegir.sexy
 domain:boysbitte.be
-domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
@@ -35,6 +34,7 @@ domain:netmap.top
 domain:new-line.net
 domain:oh.fuuuuuck.com
 domain:open.acgnxtracker.com
+domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
@@ -47,10 +47,9 @@ domain:private.anonseed.com
 domain:psyco.fr
 domain:public-tracker.cf
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
-domain:region.nl1.privex.cc
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
+domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:t.acg.rip
@@ -61,15 +60,12 @@ domain:thouvenin.cloud
 domain:tk1.trackerservers.com
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
-domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
 domain:tracker.artixlinux.org
-domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
-domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.dler.org
 domain:tracker.edkj.club
@@ -82,7 +78,6 @@ domain:tracker.loligirl.cn
 domain:tracker.moeblog.cn
 domain:tracker.moeking.me
 domain:tracker.mywaifu.best
-domain:tracker.openbittorrent.com
 domain:tracker.opentrackr.org
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
@@ -103,7 +98,6 @@ domain:tracker2.dler.org
 domain:tracker2.itzmx.com
 domain:uploads.gamecoast.net
 domain:v1046920.hosted-by-vdsina.ru
-domain:v2.iperson.xyz
 domain:wepzone.net
 domain:www.peckservers.com
 domain:yahor.of.by
