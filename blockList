@@ -10,7 +10,6 @@ domain:aarsen.me
 domain:acxx.de
 domain:aegir.sexy
 domain:boysbitte.be
-domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
@@ -23,7 +22,6 @@ domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:incine.ru
-domain:isk.richardsw.club
 domain:lloria.fr
 domain:mail.artixlinux.org
 domain:mail.segso.net
@@ -43,7 +41,6 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
-domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:t.acg.rip
@@ -53,20 +50,16 @@ domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
-domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
+domain:tracker.4.babico.name.tr
 domain:tracker.artixlinux.org
-domain:tracker.auctor.tv
-domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.dler.org
-domain:tracker.dump.cl
 domain:tracker.edkj.club
-domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.gbitt.info
@@ -99,4 +92,5 @@ domain:uploads.gamecoast.net
 domain:v2.iperson.xyz
 domain:wepzone.net
 domain:www.peckservers.com
+domain:x.paranoid.agency
 domain:yahor.of.by
