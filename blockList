@@ -6,10 +6,12 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 domain:1337.abcvg.info
 domain:1c.premierzal.ru
 domain:6.pocketnet.app
+domain:6ahddutb1ucc3cp.ru
 domain:aarsen.me
 domain:acxx.de
 domain:aegir.sexy
 domain:boysbitte.be
+domain:bt.endpot.com
 domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
@@ -22,6 +24,7 @@ domain:fe.dealclub.de
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:incine.ru
+domain:isk.richardsw.club
 domain:lloria.fr
 domain:mail.artixlinux.org
 domain:mail.segso.net
@@ -32,6 +35,7 @@ domain:oh.fuuuuuck.com
 domain:open.acgnxtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
+domain:open.free-tracker.ga
 domain:open.stealth.si
 domain:open.tracker.ink
 domain:open.u-p.pw
@@ -41,6 +45,7 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
+domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:t.acg.rip
@@ -54,6 +59,7 @@ domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
 domain:tracker.artixlinux.org
+domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
@@ -69,7 +75,6 @@ domain:tracker.ipv6tracker.org
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
 domain:tracker.mywaifu.best
-domain:tracker.netmap.top
 domain:tracker.openbittorrent.com
 domain:tracker.opentrackr.org
 domain:tracker.publictracker.xyz
