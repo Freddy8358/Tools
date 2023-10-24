@@ -14,9 +14,9 @@ domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:carr.codes
-domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
+domain:evan.im
 domain:exodus.desync.com
 domain:explodie.org
 domain:fh2.cmp-gaming.com
@@ -40,7 +40,6 @@ domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:p4p.arenabg.com
 domain:private.anonseed.com
-domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
@@ -79,13 +78,13 @@ domain:tracker.openbittorrent.com
 domain:tracker.opentrackr.org
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
+domain:tracker.renfei.net
 domain:tracker.srv00.com
 domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
 domain:tracker.theoks.net
 domain:tracker.therarbg.com
 domain:tracker.tiny-vps.com
-domain:tracker.torrent.eu.org
 domain:tracker1.520.jp
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
@@ -96,5 +95,6 @@ domain:uploads.gamecoast.net
 domain:v2.iperson.xyz
 domain:wepzone.net
 domain:www.peckservers.com
+domain:x.paranoid.agency
 domain:x.t-1.org
 domain:yahor.of.by
