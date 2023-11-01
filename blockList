@@ -14,7 +14,6 @@ domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:carr.codes
-domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
 domain:evan.im
@@ -38,7 +37,6 @@ domain:open.u-p.pw
 domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:p4p.arenabg.com
-domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
 domain:ryjer.com
@@ -55,7 +53,6 @@ domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
 domain:tracker.artixlinux.org
-domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
@@ -79,6 +76,7 @@ domain:tracker.opentrackr.org
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
 domain:tracker.renfei.net
+domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
 domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
