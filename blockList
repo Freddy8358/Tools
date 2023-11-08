@@ -14,7 +14,6 @@ domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:carr.codes
-domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
 domain:evan.im
@@ -22,9 +21,10 @@ domain:exodus.desync.com
 domain:explodie.org
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
+domain:freedomalternative.com
 domain:incine.ru
-domain:isk.richardsw.club
 domain:mail.artixlinux.org
+domain:mail.segso.net
 domain:moonburrow.club
 domain:movies.zsw.ca
 domain:new-line.net
@@ -32,7 +32,6 @@ domain:oh.fuuuuuck.com
 domain:open.acgnxtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
-domain:open.free-tracker.ga
 domain:open.stealth.si
 domain:open.tracker.cl
 domain:open.tracker.ink
@@ -40,6 +39,8 @@ domain:open.u-p.pw
 domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:p4p.arenabg.com
+domain:public.tracker.vraphim.com
+domain:region.nl1.privex.cc
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
 domain:ryjer.com
@@ -52,6 +53,7 @@ domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
+domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
