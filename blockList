@@ -15,6 +15,7 @@ domain:bt1.archive.org
 domain:bt2.archive.org
 domain:carr.codes
 domain:ch3oh.ru
+domain:concen.org
 domain:epider.me
 domain:evan.im
 domain:exodus.desync.com
@@ -23,6 +24,7 @@ domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:hz.is
 domain:incine.ru
+domain:isk.richardsw.club
 domain:mail.artixlinux.org
 domain:mail.segso.net
 domain:moonburrow.club
@@ -34,7 +36,6 @@ domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.stealth.si
-domain:open.tracker.cl
 domain:open.u-p.pw
 domain:opentracker.i2p.rocks
 domain:opentracker.io
@@ -42,6 +43,7 @@ domain:p4p.arenabg.com
 domain:private.anonseed.com
 domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
+domain:run.publictracker.xyz
 domain:ryjer.com
 domain:sanincode.com
 domain:su-data.com
@@ -54,8 +56,9 @@ domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
+domain:tracker.4.babico.name.tr
 domain:tracker.artixlinux.org
-domain:tracker.auctor.tv
+domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
@@ -92,8 +95,10 @@ domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.ctix.cn
 domain:tracker2.dler.org
+domain:ts.populargamers.co.za
 domain:uploads.gamecoast.net
 domain:v2.iperson.xyz
+domain:wepzone.net
 domain:wg.mortis.me
 domain:www.peckservers.com
 domain:x.paranoid.agency
