@@ -25,7 +25,6 @@ domain:free.publictracker.xyz
 domain:hz.is
 domain:incine.ru
 domain:mail.artixlinux.org
-domain:mail.segso.net
 domain:moonburrow.club
 domain:movies.zsw.ca
 domain:new-line.net
@@ -35,11 +34,13 @@ domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.stealth.si
+domain:open.tracker.cl
 domain:open.u-p.pw
 domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:p4p.arenabg.com
 domain:private.anonseed.com
+domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
 domain:ryjer.com
@@ -52,6 +53,7 @@ domain:thinking.duckdns.org
 domain:thouvenin.cloud
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
+domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
@@ -61,6 +63,7 @@ domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.dler.org
+domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.farted.net
 domain:tracker.filemail.com
