@@ -10,6 +10,7 @@ domain:acxx.de
 domain:aegir.sexy
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:bt.ktrackers.com
+domain:bt.rer.lol
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
@@ -24,6 +25,7 @@ domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:hz.is
 domain:incine.ru
+domain:isk.richardsw.club
 domain:mail.artixlinux.org
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -39,7 +41,6 @@ domain:open.u-p.pw
 domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:private.anonseed.com
-domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:ryjer.com
 domain:sanincode.com
@@ -55,12 +56,12 @@ domain:tracker.0x7c0.com
 domain:tracker.4.babico.name.tr
 domain:tracker.anima.nz
 domain:tracker.artixlinux.org
-domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.dler.org
+domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.filemail.com
 domain:tracker.files.fm
@@ -68,11 +69,10 @@ domain:tracker.fnix.net
 domain:tracker.gbitt.info
 domain:tracker.gcrreen.xyz
 domain:tracker.imgoingto.icu
-domain:tracker.iperson.xyz
 domain:tracker.ipv6tracker.org
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
-domain:tracker.moeblog.cn
+domain:tracker.moeking.me
 domain:tracker.mywaifu.best
 domain:tracker.netmap.top
 domain:tracker.openbittorrent.com
@@ -94,9 +94,7 @@ domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
-domain:ts.populargamers.co.za
 domain:uploads.gamecoast.net
-domain:v2.iperson.xyz
 domain:wepzone.net
 domain:www.peckservers.com
 domain:x.paranoid.agency
