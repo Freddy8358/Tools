@@ -20,6 +20,7 @@ domain:exodus.desync.com
 domain:explodie.org
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
+domain:ipv4.rer.lol
 domain:mail.artixlinux.org
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -36,6 +37,7 @@ domain:open.xxtor.com
 domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:pirate.t-1.org
+domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:ryjer.com
 domain:su-data.com
@@ -44,6 +46,7 @@ domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
+domain:tr.ready4.icu
 domain:tracker.0x7c0.com
 domain:tracker.anima.nz
 domain:tracker.artixlinux.org
@@ -58,11 +61,13 @@ domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gcrreen.xyz
+domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
 domain:tracker.moeking.me
 domain:tracker.mywaifu.best
+domain:tracker.netmap.top
 domain:tracker.opentrackr.org
 domain:tracker.qu.ax
 domain:tracker.renfei.net
@@ -70,7 +75,6 @@ domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
-domain:tracker.theoks.net
 domain:tracker.therarbg.com
 domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
