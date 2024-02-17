@@ -42,7 +42,6 @@ domain:opentracker.io
 domain:p4p.arenabg.com
 domain:pirate.t-1.org
 domain:public.tracker.vraphim.com
-domain:r.l5.ca
 domain:retracker01-msk-virt.corbina.net
 domain:ryjer.com
 domain:su-data.com
@@ -58,17 +57,18 @@ domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.ddunlimited.net
 domain:tracker.dler.org
-domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gbitt.info
 domain:tracker.gcrreen.xyz
+domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.lilithraws.org
@@ -89,6 +89,7 @@ domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
 domain:tracker.yemekyedim.com
+domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
