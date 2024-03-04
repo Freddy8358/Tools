@@ -8,7 +8,6 @@ domain:6.pocketnet.app
 domain:6ahddutb1ucc3cp.ru
 domain:aegir.sexy
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
-domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
@@ -39,6 +38,7 @@ domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:p4p.arenabg.com
 domain:pirate.t-1.org
+domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:ryjer.com
 domain:su-data.com
@@ -47,6 +47,7 @@ domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
+domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.anima.nz
 domain:tracker.artixlinux.org
@@ -60,10 +61,9 @@ domain:tracker.edkj.club
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
+domain:tracker.gbitt.info
 domain:tracker.gcrreen.xyz
-domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
-domain:tracker.ipv6tracker.org
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
 domain:tracker.moeking.me
