@@ -3,6 +3,7 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.
 regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
+domain:1337.abcvg.info
 domain:1c.premierzal.ru
 domain:6.pocketnet.app
 domain:6ahddutb1ucc3cp.ru
@@ -23,6 +24,7 @@ domain:explodie.org
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:ipv4.rer.lol
+domain:isk.richardsw.club
 domain:mail.artixlinux.org
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -32,6 +34,7 @@ domain:open.acgnxtracker.com
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
+domain:open.free-tracker.ga
 domain:open.stealth.si
 domain:open.u-p.pw
 domain:open.xxtor.com
@@ -45,15 +48,12 @@ domain:t1.hloli.org
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
 domain:tr.burnabyhighstar.com
-domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.anima.nz
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
-domain:tracker.bittor.pw
 domain:tracker.bt4g.com
-domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.cubonegro.lol
 domain:tracker.ddunlimited.net
@@ -88,6 +88,7 @@ domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
+domain:ts.populargamers.co.za
 domain:wepzone.net
 domain:www.peckservers.com
 domain:yolo.liberbear.com
