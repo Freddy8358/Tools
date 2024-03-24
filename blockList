@@ -14,6 +14,7 @@ domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
+domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
@@ -23,7 +24,6 @@ domain:explodie.org
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:ipv4.rer.lol
-domain:isk.richardsw.club
 domain:mail.artixlinux.org
 domain:moonburrow.club
 domain:movies.zsw.ca
@@ -42,12 +42,10 @@ domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:pirate.t-1.org
 domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:ryjer.com
-domain:su-data.com
 domain:t.overflow.biz
 domain:t1.hloli.org
 domain:tamas3.ynh.fr
@@ -84,7 +82,6 @@ domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
-domain:tracker.theoks.net
 domain:tracker.therarbg.com
 domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
