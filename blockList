@@ -14,7 +14,6 @@ domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
-domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
@@ -24,7 +23,7 @@ domain:explodie.org
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:ipv4.rer.lol
-domain:mail.artixlinux.org
+domain:isk.richardsw.club
 domain:moonburrow.club
 domain:movies.zsw.ca
 domain:new-line.net
@@ -41,6 +40,7 @@ domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:pirate.t-1.org
 domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
@@ -56,18 +56,16 @@ domain:tracker.0x7c0.com
 domain:tracker.anima.nz
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
+domain:tracker.bt4g.com
 domain:tracker.cloudit.top
 domain:tracker.ddunlimited.net
 domain:tracker.dler.org
-domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gbitt.info
-domain:tracker.gcrreen.xyz
-domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.lilithraws.org
@@ -95,3 +93,4 @@ domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:wepzone.net
 domain:www.peckservers.com
+domain:yolo.liberbear.com
