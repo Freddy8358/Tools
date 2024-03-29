@@ -13,6 +13,7 @@ domain:bt.ktrackers.com
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
+domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
@@ -37,6 +38,8 @@ domain:opentracker.i2p.rocks
 domain:opentracker.io
 domain:pirate.t-1.org
 domain:public.publictracker.xyz
+domain:public.tracker.vraphim.com
+domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
 domain:ryjer.com
@@ -52,9 +55,11 @@ domain:tracker.anima.nz
 domain:tracker.artixlinux.org
 domain:tracker.auctor.tv
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.ddunlimited.net
 domain:tracker.dler.org
+domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.farted.net
 domain:tracker.filemail.com
