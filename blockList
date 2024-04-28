@@ -3,6 +3,7 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.
 regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
+domain:1337.abcvg.info
 domain:1c.premierzal.ru
 domain:6ahddutb1ucc3cp.ru
 domain:aegir.sexy
@@ -17,6 +18,7 @@ domain:concen.org
 domain:epider.me
 domain:evan.im
 domain:exodus.desync.com
+domain:explodie.org
 domain:fh2.cmp-gaming.com
 domain:free.publictracker.xyz
 domain:inferno.demonoid.is
@@ -33,8 +35,6 @@ domain:open.stealth.si
 domain:open.u-p.pw
 domain:open.xxtor.com
 domain:opentracker.io
-domain:public.publictracker.xyz
-domain:public.tracker.vraphim.com
 domain:retracker01-msk-virt.corbina.net
 domain:run-2.publictracker.xyz
 domain:run.publictracker.xyz
@@ -48,6 +48,7 @@ domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.anima.nz
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.ddunlimited.net
 domain:tracker.dler.org
@@ -63,6 +64,7 @@ domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
+domain:tracker.moeking.me
 domain:tracker.mywaifu.best
 domain:tracker.opentrackr.org
 domain:tracker.publictracker.xyz
@@ -71,12 +73,14 @@ domain:tracker.renfei.net
 domain:tracker.srv00.com
 domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
+domain:tracker.theoks.net
 domain:tracker.therarbg.com
 domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
 domain:tracker.yemekyedim.com
+domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
