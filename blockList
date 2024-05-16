@@ -47,11 +47,11 @@ domain:open.xxtor.com
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:public.tracker.vraphim.com
-domain:region.nl1.privex.cc
 domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
 domain:ryjer.com
+domain:t.overflow.biz
 domain:t1.aag.moe
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
@@ -59,13 +59,12 @@ domain:tr.kxmp.cf
 domain:tracker-udp.gbitt.info
 domain:tracker-zhuqiy.dgj055.icu
 domain:tracker.0x7c0.com
-domain:tracker.anima.nz
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.darkness.services
 domain:tracker.ddunlimited.net
-domain:tracker.deadorbit.nl
 domain:tracker.dler.org
 domain:tracker.dump.cl
 domain:tracker.edkj.club
@@ -95,6 +94,7 @@ domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
 domain:tracker.theoks.net
 domain:tracker.therarbg.com
+domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
