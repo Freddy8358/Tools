@@ -14,7 +14,7 @@ domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bubu.mapfactor.com
 domain:bvarf.tracker.sh
-domain:canardscitrons.nohost.me
+domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
 domain:epider.me
@@ -42,12 +42,12 @@ domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
 domain:open.tracker.cl
-domain:open.tracker.ink
 domain:open.u-p.pw
 domain:open.xxtor.com
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
+domain:public.tracker.vraphim.com
 domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
@@ -57,6 +57,7 @@ domain:t1.aag.moe
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
 domain:tr.kxmp.cf
+domain:tr.ready4.icu
 domain:tracker-udp.gbitt.info
 domain:tracker-zhuqiy.dgj055.icu
 domain:tracker.0x7c0.com
@@ -75,7 +76,6 @@ domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gbitt.info
 domain:tracker.gcrreen.xyz
-domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.jamesthebard.net
@@ -86,17 +86,13 @@ domain:tracker.opentrackr.org
 domain:tracker.picotorrent.one
 domain:tracker.qu.ax
 domain:tracker.renfei.net
-domain:tracker.rev.pm
-domain:tracker.skyts.net
 domain:tracker.srv00.com
-domain:tracker.t-rb.org
 domain:tracker.tamersunion.org
-domain:tracker.therarbg.com
+domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
 domain:tracker.yemekyedim.com
-domain:tracker1.ctix.cn
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
