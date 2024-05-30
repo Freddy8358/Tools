@@ -5,7 +5,6 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 # 禁止BT
 domain:1337.abcvg.info
 domain:1c.premierzal.ru
-domain:6ahddutb1ucc3cp.ru
 domain:aegir.sexy
 domain:amigacity.xyz
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -28,6 +27,7 @@ domain:isk.richardsw.club
 domain:jutone.com
 domain:martin-gebhardt.eu
 domain:moonburrow.club
+domain:new-line.net
 domain:odd-hd.fr
 domain:oh.fuuuuuck.com
 domain:open-tracker.demonoid.ch
@@ -44,9 +44,11 @@ domain:open.u-p.pw
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
+domain:public.tracker.vraphim.com
 domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
+domain:ryjer.com
 domain:t.overflow.biz
 domain:t1.aag.moe
 domain:tamas3.ynh.fr
@@ -70,7 +72,6 @@ domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gbitt.info
 domain:tracker.gcrreen.xyz
-domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.jamesthebard.net
@@ -84,16 +85,15 @@ domain:tracker.renfei.net
 domain:tracker.rev.pm
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
-domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
 domain:tracker.yemekyedim.com
+domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:ttk2.nbaonlineservice.com
 domain:u.peer-exchange.download
 domain:wepzone.net
-domain:www.2600.com
 domain:www.peckservers.com
