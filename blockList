@@ -8,7 +8,6 @@ domain:1c.premierzal.ru
 domain:aegir.sexy
 domain:amigacity.xyz
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
-domain:bt.ktrackers.com
 domain:bt.ptlsp.com
 domain:bt1.archive.org
 domain:bt2.archive.org
@@ -41,13 +40,13 @@ domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
+domain:open.u-p.pw
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
 domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
-domain:ryjer.com
 domain:t.overflow.biz
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
@@ -80,9 +79,8 @@ domain:tracker.opentrackr.org
 domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
+domain:tracker.srv00.com
 domain:tracker.tamersunion.org
-domain:tracker.therarbg.com
-domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
