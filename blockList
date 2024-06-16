@@ -48,6 +48,7 @@ domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
 domain:ryjer.com
+domain:t.overflow.biz
 domain:t1.aag.moe
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
@@ -56,7 +57,6 @@ domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
-domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.darkness.services
 domain:tracker.ddunlimited.net
@@ -75,6 +75,7 @@ domain:tracker.ipv6tracker.org
 domain:tracker.jamesthebard.net
 domain:tracker.lilithraws.org
 domain:tracker.loligirl.cn
+domain:tracker.moeblog.cn
 domain:tracker.mywaifu.best
 domain:tracker.opentrackr.org
 domain:tracker.pmman.tech
@@ -82,7 +83,6 @@ domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
-domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
@@ -93,4 +93,5 @@ domain:tracker2.dler.org
 domain:trackers.run
 domain:ttk2.nbaonlineservice.com
 domain:u.peer-exchange.download
+domain:wepzone.net
 domain:www.peckservers.com
