@@ -56,7 +56,9 @@ domain:torrents.artixlinux.org
 domain:tr.kxmp.cf
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
+domain:tracker.bittor.pw
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.darkness.services
 domain:tracker.ddunlimited.net
@@ -70,7 +72,6 @@ domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gbitt.info
 domain:tracker.gcrenwp.top
-domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.jamesthebard.net
