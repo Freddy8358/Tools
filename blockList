@@ -14,7 +14,6 @@ domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bubu.mapfactor.com
 domain:bvarf.tracker.sh
-domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:epider.me
@@ -36,7 +35,6 @@ domain:open.demonii.com
 domain:open.demonoid.ch
 domain:open.dstud.io
 domain:open.free-tracker.ga
-domain:open.publictracker.xyz
 domain:open.stealth.si
 domain:open.tracker.cl
 domain:open.u-p.pw
@@ -56,20 +54,21 @@ domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
 domain:tr.kxmp.cf
 domain:tracker.0x7c0.com
+domain:tracker.auctor.tv
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
+domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
 domain:tracker.darkness.services
 domain:tracker.ddunlimited.net
 domain:tracker.deadorbit.nl
 domain:tracker.dler.org
-domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
-domain:tracker.gbitt.info
 domain:tracker.gcrenwp.top
+domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.jamesthebard.net
@@ -85,6 +84,7 @@ domain:tracker.tamersunion.org
 domain:tracker.therarbg.com
 domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
+domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
 domain:tracker.yemekyedim.com
 domain:tracker1.bt.moack.co.kr
@@ -92,7 +92,7 @@ domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:trackers.run
+domain:ttk2.nbaonlineservice.com
 domain:u.peer-exchange.download
 domain:wepzone.net
 domain:www.peckservers.com
-domain:yahor.of.by
