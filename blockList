@@ -6,13 +6,11 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 domain:1c.premierzal.ru
 domain:aegir.sexy
 domain:amigacity.xyz
-domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:bt.ktrackers.com
 domain:bt.rer.lol
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
-domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -20,11 +18,9 @@ domain:epider.me
 domain:evan.im
 domain:exodus.desync.com
 domain:explodie.org
-domain:free.publictracker.xyz
-domain:freedomalternative.com
 domain:ipv4.rer.lol
-domain:isk.richardsw.club
 domain:jutone.com
+domain:leet-tracker.moe
 domain:mail.artixlinux.org
 domain:martin-gebhardt.eu
 domain:moonburrow.club
@@ -33,6 +29,7 @@ domain:odd-hd.fr
 domain:open.demonii.com
 domain:open.demonoid.ch
 domain:open.dstud.io
+domain:open.free-tracker.ga
 domain:open.publictracker.xyz
 domain:open.stealth.si
 domain:open.tracker.cl
@@ -47,6 +44,8 @@ domain:ryjer.com
 domain:t.overflow.biz
 domain:t1.aag.moe
 domain:tamas3.ynh.fr
+domain:torrents.artixlinux.org
+domain:tr.kxmp.cf
 domain:tracker-udp.gbitt.info
 domain:tracker-zhuqiy.dgj055.icu
 domain:tracker.0x7c0.com
@@ -64,7 +63,6 @@ domain:tracker.filemail.com
 domain:tracker.files.fm
 domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
-domain:tracker.imgoingto.icu
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
 domain:tracker.jamesthebard.net
@@ -77,6 +75,7 @@ domain:tracker.renfei.net
 domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
+domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
@@ -87,5 +86,4 @@ domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:trackers.run
 domain:ttk2.nbaonlineservice.com
-domain:u.peer-exchange.download
 domain:www.peckservers.com
