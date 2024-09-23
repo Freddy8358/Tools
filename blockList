@@ -6,12 +6,11 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 domain:1337.abcvg.info
 domain:1c.premierzal.ru
 domain:aegir.sexy
-domain:amigacity.xyz
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
+domain:bt.ktrackers.com
 domain:bt.rer.lol
 domain:bt1.archive.org
 domain:bt2.archive.org
-domain:bvarf.tracker.sh
 domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -34,7 +33,6 @@ domain:p4p.arenabg.com
 domain:pybittrack.retiolus.net
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
-domain:t.overflow.biz
 domain:t1.aag.moe
 domain:tamas3.ynh.fr
 domain:torrents.artixlinux.org
@@ -73,12 +71,10 @@ domain:tracker.tryhackx.org
 domain:tracker.yemekyedim.com
 domain:tracker1.bt.moack.co.kr
 domain:tracker1.itzmx.com
-domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:tracker2.itzmx.com
 domain:tracker3.itzmx.com
 domain:trackers.run
 domain:ttk2.nbaonlineservice.com
 domain:wepzone.net
-domain:www.2600.com
 domain:www.peckservers.com
