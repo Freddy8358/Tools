@@ -12,7 +12,6 @@ domain:bt.rer.lol
 domain:bt1.archive.org
 domain:bt2.archive.org
 domain:bvarf.tracker.sh
-domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -32,17 +31,20 @@ domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.stealth.si
+domain:open.u-p.pw
 domain:open.xxtor.com
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
+domain:public.tracker.vraphim.com
 domain:pybittrack.retiolus.net
 domain:region.nl1.privex.cc
 domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
-domain:run.publictracker.xyz
+domain:ryjer.com
 domain:t.overflow.biz
 domain:torrents.artixlinux.org
+domain:torrenttracker.nwc.acsalaska.net
 domain:tr.kxmp.cf
 domain:tracker-udp.gbitt.info
 domain:tracker-zhuqiy.dgj055.icu
@@ -75,7 +77,6 @@ domain:tracker.renfei.net
 domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
-domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
@@ -89,4 +90,5 @@ domain:tracker2.dler.org
 domain:tracker3.itzmx.com
 domain:tracker4.itzmx.com
 domain:ttk2.nbaonlineservice.com
+domain:wepzone.net
 domain:www.peckservers.com
