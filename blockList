@@ -10,6 +10,7 @@ domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:bt.ktrackers.com
 domain:bt.rer.lol
 domain:bvarf.tracker.sh
+domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
@@ -25,12 +26,10 @@ domain:moonburrow.club
 domain:new-line.net
 domain:odd-hd.fr
 domain:open.acgtracker.com
-domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.stealth.si
 domain:open.tracker.cl
-domain:open.tracker.ink
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
@@ -39,6 +38,7 @@ domain:pybittrack.retiolus.net
 domain:retracker.lanta.me
 domain:retracker01-msk-virt.corbina.net
 domain:ryjer.com
+domain:t.overflow.biz
 domain:torrents.artixlinux.org
 domain:tr.kxmp.cf
 domain:tracker-udp.gbitt.info
@@ -70,9 +70,9 @@ domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.skynetcloud.site
-domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
+domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
