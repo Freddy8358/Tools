@@ -8,6 +8,7 @@ domain:1c.premierzal.ru
 domain:aegir.sexy
 domain:amigacity.xyz
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
+domain:bt.ktrackers.com
 domain:bt.rer.lol
 domain:bvarf.tracker.sh
 domain:canardscitrons.nohost.me
@@ -18,6 +19,7 @@ domain:evan.im
 domain:exodus.desync.com
 domain:explodie.org
 domain:free.publictracker.xyz
+domain:freedomalternative.com
 domain:ipv4.rer.lol
 domain:jutone.com
 domain:martin-gebhardt.eu
@@ -39,10 +41,11 @@ domain:run.publictracker.xyz
 domain:ryjer.com
 domain:t.overflow.biz
 domain:torrents.artixlinux.org
-domain:tr.kxmp.cf
 domain:tracker-udp.gbitt.info
 domain:tracker-zhuqiy.dgj055.icu
 domain:tracker.0x7c0.com
+domain:tracker.auctor.tv
+domain:tracker.bittor.pw
 domain:tracker.bt4g.com
 domain:tracker.ccp.ovh
 domain:tracker.cloudit.top
@@ -50,6 +53,7 @@ domain:tracker.darkness.services
 domain:tracker.ddunlimited.net
 domain:tracker.deadorbit.nl
 domain:tracker.dler.org
+domain:tracker.dump.cl
 domain:tracker.edkj.club
 domain:tracker.filemail.com
 domain:tracker.fnix.net
@@ -69,7 +73,6 @@ domain:tracker.skynetcloud.site
 domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
-domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.tryhackx.org
