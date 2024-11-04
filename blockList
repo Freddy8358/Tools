@@ -21,7 +21,6 @@ domain:bvarf.tracker.sh
 domain:canardscitrons.nohost.me
 domain:ch3oh.ru
 domain:concen.org
-domain:d13bttrck.duckdns.org
 domain:d40969.acod.regrucolo.ru
 domain:discord.heihachi.pw
 domain:evan.im
@@ -48,7 +47,6 @@ domain:open.free-tracker.ga
 domain:open.stealth.si
 domain:open.tracker.cl
 domain:open.trackerlist.xyz
-domain:open.u-p.pw
 domain:opentracker.io
 domain:p2p.azu.red
 domain:p2p.publictracker.xyz
@@ -57,7 +55,6 @@ domain:public.tracker.vraphim.com
 domain:retracker.lanta.me
 domain:retracker.spark-rostov.ru
 domain:retracker01-msk-virt.corbina.net
-domain:rfc5746.mywaifu.best
 domain:run.publictracker.xyz
 domain:ryjer.com
 domain:saltwood.top
@@ -103,7 +100,6 @@ domain:tracker.gigantino.net
 domain:tracker.gmi.gd
 domain:tracker.ipfsscan.io
 domain:tracker.ipv6tracker.org
-domain:tracker.itscraftsoftware.my.id
 domain:tracker.jamesthebard.net
 domain:tracker.leechshield.link
 domain:tracker.lilithraws.org
@@ -117,9 +113,11 @@ domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.sbsub.com
+domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
 domain:tracker.tamersunion.org
 domain:tracker.theoks.net
+domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
 domain:tracker.tryhackx.org
@@ -136,6 +134,7 @@ domain:tracker4.itzmx.com
 domain:tracker4.leechshield.link
 domain:tracker810.xyz
 domain:ttk2.nbaonlineservice.com
+domain:wepzone.net
 domain:www.genesis-sp.org
 domain:www.peckservers.com
 domain:www.torrentsnipe.info
