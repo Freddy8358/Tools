@@ -8,7 +8,7 @@ domain:0d.kebhana.mx
 domain:1337.abcvg.info
 domain:api.ipv4online.uk
 domain:bandito.byterunner.io
-domain:bt.ktrackers.com
+domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:bt.poletracker.org
 domain:bt.rer.lol
 domain:bt1.xxxxbt.cc
@@ -16,7 +16,6 @@ domain:buny.uk
 domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
-domain:discord.heihachi.pw
 domain:evan.im
 domain:exodus.desync.com
 domain:explodie.org
@@ -27,12 +26,13 @@ domain:ipv4.rer.lol
 domain:ipv4announce.sktorrent.eu
 domain:isk.richardsw.club
 domain:ismaarino.com
+domain:leet-tracker.moe
 domain:martin-gebhardt.eu
-domain:ns-1.x-fins.com
 domain:odd-hd.fr
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
+domain:open.free-tracker.ga
 domain:open.stealth.si
 domain:open.tracker.cl
 domain:open.tracker.ink
@@ -55,7 +55,6 @@ domain:t.overflow.biz
 domain:taciturn-shadow.spb.ru
 domain:tr.nyacat.pw
 domain:tr.zukizuki.org
-domain:tr1.aag.moe
 domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
 domain:tracker-zhuqiy.dgj055.icu
@@ -70,6 +69,7 @@ domain:tracker.deadorbit.nl
 domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.dmcomic.org
+domain:tracker.dump.cl
 domain:tracker.filemail.com
 domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
@@ -90,7 +90,6 @@ domain:tracker.renfei.net
 domain:tracker.sbsub.com
 domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
-domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
@@ -99,11 +98,7 @@ domain:tracker.vanitycore.co
 domain:tracker.waaa.moe
 domain:tracker.xiaoduola.xyz
 domain:tracker.yemekyedim.com
-domain:tracker1.itzmx.com
 domain:tracker1.myporn.club
-domain:tracker2.dler.org
-domain:tracker3.itzmx.com
-domain:tracker4.itzmx.com
 domain:tracker810.xyz
 domain:ttk2.nbaonlineservice.com
 domain:wepzone.net
