@@ -6,9 +6,7 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 domain:0123456789nonexistent.com
 domain:0d.kebhana.mx
 domain:1337.abcvg.info
-domain:4.tracker.devnak.win
 domain:bandito.byterunner.io
-domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:bt.ktrackers.com
 domain:bt.poletracker.org
 domain:bt.rer.lol
@@ -17,7 +15,6 @@ domain:buny.uk
 domain:ch3oh.ru
 domain:concen.org
 domain:d40969.acod.regrucolo.ru
-domain:discord.heihachi.pw
 domain:evan.im
 domain:exodus.desync.com
 domain:explodie.org
@@ -29,6 +26,7 @@ domain:ipv4announce.sktorrent.eu
 domain:isk.richardsw.club
 domain:leet-tracker.moe
 domain:martin-gebhardt.eu
+domain:ns-1.x-fins.com
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.dstud.io
@@ -79,16 +77,16 @@ domain:tracker.leechshield.link
 domain:tracker.lilithraws.org
 domain:tracker.lintk.me
 domain:tracker.linvk.com
+domain:tracker.moeblog.cn
 domain:tracker.moxing.party
 domain:tracker.mywaifu.best
-domain:tracker.ololosh.space
 domain:tracker.opentrackr.org
-domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.sbsub.com
 domain:tracker.skyts.net
 domain:tracker.srv00.com
+domain:tracker.theoks.net
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
@@ -103,6 +101,7 @@ domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:tracker810.xyz
 domain:ttk2.nbaonlineservice.com
+domain:utracker.ghostchu-services.top
 domain:wepzone.net
 domain:www.genesis-sp.org
 domain:www.torrentsnipe.info
