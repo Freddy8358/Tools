@@ -17,10 +17,8 @@ domain:chihaya.de
 domain:d40969.acod.regrucolo.ru
 domain:discord.heihachi.pw
 domain:evan.im
-domain:exodus.desync.com
 domain:explodie.org
 domain:finbytes.org
-domain:fosstorrents.com
 domain:highteahop.top
 domain:home.yxgz.club
 domain:ipv4.rer.lol
@@ -38,7 +36,6 @@ domain:open.trackerlist.xyz
 domain:opentracker.io
 domain:p2p.publictracker.xyz
 domain:p4p.arenabg.com
-domain:public.tracker.vraphim.com
 domain:retracker.lanta.me
 domain:retracker.spark-rostov.ru
 domain:retracker01-msk-virt.corbina.net
@@ -46,12 +43,14 @@ domain:seeders-paradise.org
 domain:servandroidkino.ru
 domain:share.hkg-fansub.info
 domain:shubt.net
+domain:sparkle.ghostchu-services.top
 domain:t.jaekr.sh
 domain:t.overflow.biz
 domain:taciturn-shadow.spb.ru
 domain:tr.nyacat.pw
 domain:tr.zukizuki.org
 domain:tr4ck3r.duckdns.org
+domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.23794.top
 domain:tracker.bittor.pw
@@ -60,7 +59,6 @@ domain:tracker.bt4g.com
 domain:tracker.bz
 domain:tracker.corpscorp.online
 domain:tracker.darkness.services
-domain:tracker.ddunlimited.net
 domain:tracker.deadorbit.nl
 domain:tracker.dler.com
 domain:tracker.dler.org
@@ -70,6 +68,7 @@ domain:tracker.expli.top
 domain:tracker.filemail.com
 domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
+domain:tracker.ghostchu-services.top
 domain:tracker.gigantino.net
 domain:tracker.gmi.gd
 domain:tracker.ipv6tracker.org
@@ -88,6 +87,7 @@ domain:tracker.renfei.net
 domain:tracker.sbsub.com
 domain:tracker.skyts.net
 domain:tracker.srv00.com
+domain:tracker.theoks.net
 domain:tracker.therarbg.to
 domain:tracker.tiny-vps.com
 domain:tracker.torrent.eu.org
@@ -99,7 +99,6 @@ domain:tracker.xiaoduola.xyz
 domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.top
 domain:tracker1.itzmx.com
-domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:tracker810.xyz
 domain:ttk2.nbaonlineservice.com
