@@ -24,7 +24,6 @@ domain:explodie.org
 domain:extracker.dahrkael.net
 domain:finbytes.org
 domain:glotorrents.pw
-domain:hificode.in
 domain:highteahop.top
 domain:home.yxgz.club
 domain:ipv4.rer.lol
@@ -33,6 +32,7 @@ domain:isk.richardsw.club
 domain:leet-tracker.moe
 domain:martin-gebhardt.eu
 domain:ns-1.x-fins.com
+domain:open.demonii.com
 domain:open.dstud.io
 domain:open.free-tracker.ga
 domain:open.stealth.si
@@ -49,10 +49,12 @@ domain:share.hkg-fansub.info
 domain:shubt.net
 domain:t.jaekr.sh
 domain:t.overflow.biz
+domain:t1.hloli.org
 domain:torrent.hificode.in
 domain:tr.kxmp.cf
 domain:tr.zukizuki.org
 domain:tr4ck3r.duckdns.org
+domain:tracker-udp.gbitt.info
 domain:tracker.23794.top
 domain:tracker.aburaya.live
 domain:tracker.bitcoinindia.space
@@ -84,6 +86,7 @@ domain:tracker.ololosh.space
 domain:tracker.opentrackr.org
 domain:tracker.plx.im
 domain:tracker.pmman.tech
+domain:tracker.privateseedbox.xyz
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.sbsub.com
@@ -96,6 +99,8 @@ domain:tracker.tritan.gg
 domain:tracker.tryhackx.org
 domain:tracker.valete.tf
 domain:tracker.vanitycore.co
+domain:tracker.waaa.moe
+domain:tracker.wepzone.net
 domain:tracker.xiaoduola.xyz
 domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.top
@@ -106,5 +111,6 @@ domain:tracker2.dler.org
 domain:tracker810.xyz
 domain:ttk2.nbaonlineservice.com
 domain:udp.tracker.projectk.org
+domain:wepzone.net
 domain:www.genesis-sp.org
 domain:www.torrentsnipe.info
