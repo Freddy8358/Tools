@@ -6,6 +6,7 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 domain:0123456789nonexistent.com
 domain:0d.kebhana.mx
 domain:1337.abcvg.info
+domain:6ahddutb1ucc3cp.ru
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:bandito.byterunner.io
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -20,10 +21,11 @@ domain:d40969.acod.regrucolo.ru
 domain:exodus.desync.com
 domain:explodie.org
 domain:extracker.dahrkael.net
+domain:glotorrents.pw
+domain:hificode.in
 domain:home.yxgz.club
 domain:ipv4announce.sktorrent.eu
 domain:martin-gebhardt.eu
-domain:ns-1.x-fins.com
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.demonoid.ch
@@ -42,12 +44,12 @@ domain:shahidrazi.online
 domain:share.hkg-fansub.info
 domain:shubt.net
 domain:t.213891.xyz
+domain:t.overflow.biz
 domain:torrent.hificode.in
 domain:torrent.tracker.durukanbal.com
 domain:torrentclub.online
 domain:tr.kxmp.cf
 domain:tr.nyacat.pw
-domain:tr.zukizuki.org
 domain:tr4ck3r.duckdns.org
 domain:tracker.1h.is
 domain:tracker.23794.top
@@ -57,6 +59,7 @@ domain:tracker.bittor.pw
 domain:tracker.bt-hash.com
 domain:tracker.bt4g.com
 domain:tracker.bz
+domain:tracker.cloudbase.store
 domain:tracker.corpscorp.online
 domain:tracker.cutie.dating
 domain:tracker.darkness.services
@@ -69,7 +72,6 @@ domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
 domain:tracker.ghostchu-services.top
 domain:tracker.gmi.gd
-domain:tracker.hifimarket.in
 domain:tracker.ipv6tracker.org
 domain:tracker.leechshield.link
 domain:tracker.lintk.me
@@ -86,6 +88,7 @@ domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
 domain:tracker.startwork.cv
 domain:tracker.t-1.org
+domain:tracker.theoks.net
 domain:tracker.therarbg.to
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
@@ -99,7 +102,7 @@ domain:tracker.xiaoduola.xyz
 domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.com
 domain:tracker.zupix.online
-domain:tracker1.bt.moack.co.kr
+domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:tracker810.xyz
 domain:ttk2.nbaonlineservice.com
