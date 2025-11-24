@@ -23,15 +23,15 @@ domain:explodie.org
 domain:extracker.dahrkael.net
 domain:home.yxgz.club
 domain:ipv4announce.sktorrent.eu
+domain:isk.richardsw.club
 domain:martin-gebhardt.eu
-domain:ns-1.x-fins.com
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.demonoid.ch
-domain:open.dstud.io
 domain:open.stealth.si
 domain:open.trackerlist.xyz
 domain:opentracker.io
+domain:p4p.arenabg.com
 domain:retracker.lanta.me
 domain:retracker.spark-rostov.ru
 domain:retracker01-msk-virt.corbina.net
@@ -47,9 +47,8 @@ domain:torrent.hificode.in
 domain:torrent.tracker.durukanbal.com
 domain:torrentclub.online
 domain:tr.kxmp.cf
-domain:tr.nyacat.pw
+domain:tr.zukizuki.org
 domain:tr4ck3r.duckdns.org
-domain:tracker-udp.gbitt.info
 domain:tracker.1h.is
 domain:tracker.23794.top
 domain:tracker.alaskantf.com
@@ -71,7 +70,6 @@ domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
 domain:tracker.ghostchu-services.top
 domain:tracker.gmi.gd
-domain:tracker.hifimarket.in
 domain:tracker.ipv6tracker.org
 domain:tracker.leechshield.link
 domain:tracker.lintk.me
@@ -84,11 +82,9 @@ domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.sbsub.com
-domain:tracker.skynetcloud.site
 domain:tracker.srv00.com
 domain:tracker.startwork.cv
 domain:tracker.t-1.org
-domain:tracker.theoks.net
 domain:tracker.therarbg.to
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
@@ -99,7 +95,6 @@ domain:tracker.uraniumhexafluori.de
 domain:tracker.vanitycore.co
 domain:tracker.waaa.moe
 domain:tracker.xiaoduola.xyz
-domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.com
 domain:tracker.zupix.online
 domain:tracker1.myporn.club
@@ -110,3 +105,4 @@ domain:udp.tracker.projectk.org
 domain:wepzone.net
 domain:www.genesis-sp.org
 domain:www.torrentsnipe.info
+domain:yuki.bt.bontal.net
