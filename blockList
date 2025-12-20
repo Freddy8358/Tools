@@ -5,6 +5,7 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 # 禁止BT
 domain:0123456789nonexistent.com
 domain:0d.kebhana.mx
+domain:1337.abcvg.info
 domain:6ahddutb1ucc3cp.ru
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:bandito.byterunner.io
@@ -37,10 +38,8 @@ domain:retracker.spark-rostov.ru
 domain:retracker01-msk-virt.corbina.net
 domain:run.publictracker.xyz
 domain:seeders-paradise.org
-domain:servandroidkino.ru
 domain:shahidrazi.online
 domain:share.hkg-fansub.info
-domain:shubt.net
 domain:t.213891.xyz
 domain:t.overflow.biz
 domain:torrent.hificode.in
@@ -101,10 +100,10 @@ domain:tracker.xiaoduola.xyz
 domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.com
 domain:tracker.zupix.online
-domain:tracker1.myporn.club
 domain:tracker2.dler.org
 domain:tracker810.xyz
 domain:udp.tracker.projectk.org
 domain:wepzone.net
 domain:www.genesis-sp.org
 domain:www.torrentsnipe.info
+domain:yuki.bt.bontal.net
