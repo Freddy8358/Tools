@@ -4,7 +4,6 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
 domain:1337.abcvg.info
-domain:6ahddutb1ucc3cp.ru
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:bandito.byterunner.io
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -24,6 +23,7 @@ domain:ns575949.ip-51-222-82.net
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.demonoid.ch
+domain:open.dstud.io
 domain:open.stealth.si
 domain:open.tracker.cl
 domain:opentracker.io
@@ -44,7 +44,6 @@ domain:tracker-de-2.cutie.dating
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
 domain:tracker.1h.is
-domain:tracker.23794.top
 domain:tracker.alaskantf.com
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
@@ -54,6 +53,7 @@ domain:tracker.darkness.services
 domain:tracker.dhitechnical.com
 domain:tracker.dler.org
 domain:tracker.ducks.party
+domain:tracker.filemail.com
 domain:tracker.flatuslifir.is
 domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
@@ -71,6 +71,7 @@ domain:tracker.pmman.tech
 domain:tracker.qingwa.pro
 domain:tracker.qu.ax
 domain:tracker.renfei.net
+domain:tracker.skynetcloud.site
 domain:tracker.startwork.cv
 domain:tracker.t-1.org
 domain:tracker.therarbg.to
@@ -87,3 +88,4 @@ domain:tracker2.dler.org
 domain:tracker3.t-1.org
 domain:udp.tracker.projectk.org
 domain:www.2600.com
+domain:yuki.bt.bontal.net
