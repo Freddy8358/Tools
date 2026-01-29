@@ -3,15 +3,18 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.
 regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
+domain:0123456789nonexistent.com
 domain:1337.abcvg.info
-domain:6ahddutb1ucc3cp.ru
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:bandito.byterunner.io
+domain:buny.uk
 domain:bvarf.tracker.sh
 domain:d40969.acod.regrucolo.ru
 domain:evan.im
 domain:extracker.dahrkael.net
+domain:home.yxgz.club
 domain:ipv4announce.sktorrent.eu
+domain:jvavav.com
 domain:leet-tracker.moe
 domain:lucke.fenesisu.moe
 domain:martin-gebhardt.eu
@@ -24,7 +27,9 @@ domain:open.stealth.si
 domain:open.tracker.cl
 domain:p4p.arenabg.com
 domain:retracker.lanta.me
+domain:servandroidkino.ru
 domain:shahidrazi.online
+domain:share.hkg-fansub.info
 domain:t.213891.xyz
 domain:t.overflow.biz
 domain:torrent.tracker.durukanbal.com
@@ -44,12 +49,15 @@ domain:tracker.bt4g.com
 domain:tracker.darkness.services
 domain:tracker.dhitechnical.com
 domain:tracker.dler.org
+domain:tracker.dmcomic.org
 domain:tracker.ducks.party
+domain:tracker.filemail.com
 domain:tracker.flatuslifir.is
 domain:tracker.fnix.net
 domain:tracker.gcrenwp.top
 domain:tracker.ghostchu-services.top
 domain:tracker.gmi.gd
+domain:tracker.lintk.me
 domain:tracker.moeblog.cn
 domain:tracker.mywaifu.best
 domain:tracker.opentorrent.top
@@ -59,6 +67,7 @@ domain:tracker.plx.im
 domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
+domain:tracker.sbsub.com
 domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.t-1.org
@@ -70,8 +79,10 @@ domain:tracker.tritan.gg
 domain:tracker.tryhackx.org
 domain:tracker.tvunderground.org.ru
 domain:tracker.uraniumhexafluori.de
+domain:tracker.vanitycore.co
 domain:tracker.waaa.moe
 domain:tracker.wepzone.net
+domain:tracker.xiaoduola.xyz
 domain:tracker.zhuqiy.com
 domain:tracker1.t-1.org
 domain:tracker2.dler.org
@@ -79,3 +90,5 @@ domain:tracker3.t-1.org
 domain:udp.tracker.projectk.org
 domain:utracker.ghostchu-services.top
 domain:wepzone.net
+domain:www.genesis-sp.org
+domain:www.torrentsnipe.info
