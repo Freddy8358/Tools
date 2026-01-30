@@ -3,14 +3,18 @@ regexp:(.*.||)(gov|12377|12315|talk.news.pts.org|cread­ers|zhuich­aguoji|efcc.
 regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
-domain:0123456789nonexistent.com
+domain:0d.kebhana.mx
 domain:1337.abcvg.info
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:bandito.byterunner.io
+domain:bt.poletracker.org
+domain:bt1.xxxxbt.cc
 domain:buny.uk
 domain:bvarf.tracker.sh
 domain:d40969.acod.regrucolo.ru
 domain:evan.im
+domain:exodus.desync.com
+domain:explodie.org
 domain:extracker.dahrkael.net
 domain:home.yxgz.club
 domain:ipv4announce.sktorrent.eu
@@ -25,20 +29,22 @@ domain:open.demonoid.ch
 domain:open.dstud.io
 domain:open.stealth.si
 domain:open.tracker.cl
-domain:p4p.arenabg.com
+domain:open.trackerlist.xyz
+domain:opentracker.io
+domain:rekcart.duckdns.org
 domain:retracker.lanta.me
+domain:retracker.spark-rostov.ru
+domain:run.publictracker.xyz
 domain:servandroidkino.ru
 domain:shahidrazi.online
 domain:share.hkg-fansub.info
+domain:shubt.net
 domain:t.213891.xyz
-domain:t.overflow.biz
-domain:torrent.tracker.durukanbal.com
+domain:torrent.hificode.in
 domain:torrentclub.online
 domain:tr.highstar.shop
 domain:tr.kxmp.cf
 domain:tr.nyacat.pw
-domain:tr.zukizuki.org
-domain:tr4ck3r.duckdns.org
 domain:tracker-de-2.cutie.dating
 domain:tracker-udp.gbitt.info
 domain:tracker.1h.is
@@ -46,6 +52,7 @@ domain:tracker.23794.top
 domain:tracker.alaskantf.com
 domain:tracker.bittor.pw
 domain:tracker.bt4g.com
+domain:tracker.bz
 domain:tracker.darkness.services
 domain:tracker.dhitechnical.com
 domain:tracker.dler.org
@@ -54,9 +61,9 @@ domain:tracker.ducks.party
 domain:tracker.filemail.com
 domain:tracker.flatuslifir.is
 domain:tracker.fnix.net
-domain:tracker.gcrenwp.top
 domain:tracker.ghostchu-services.top
 domain:tracker.gmi.gd
+domain:tracker.ipv6tracker.org
 domain:tracker.lintk.me
 domain:tracker.moeblog.cn
 domain:tracker.mywaifu.best
@@ -71,7 +78,6 @@ domain:tracker.sbsub.com
 domain:tracker.skyts.net
 domain:tracker.srv00.com
 domain:tracker.t-1.org
-domain:tracker.theoks.net
 domain:tracker.therarbg.to
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
@@ -87,6 +93,7 @@ domain:tracker.zhuqiy.com
 domain:tracker1.t-1.org
 domain:tracker2.dler.org
 domain:tracker3.t-1.org
+domain:tracker810.xyz
 domain:udp.tracker.projectk.org
 domain:utracker.ghostchu-services.top
 domain:wepzone.net
