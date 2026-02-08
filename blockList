@@ -4,16 +4,13 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
 domain:1337.abcvg.info
-domain:6ahddutb1ucc3cp.ru
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:bandito.byterunner.io
 domain:bvarf.tracker.sh
 domain:d40969.acod.regrucolo.ru
 domain:evan.im
-domain:exodus.desync.com
 domain:explodie.org
 domain:extracker.dahrkael.net
-domain:ftp.pet
 domain:ipv4announce.sktorrent.eu
 domain:leet-tracker.moe
 domain:lucke.fenesisu.moe
@@ -22,20 +19,19 @@ domain:ns575949.ip-51-222-82.net
 domain:open.acgtracker.com
 domain:open.demonii.com
 domain:open.demonoid.ch
-domain:open.dstud.io
 domain:open.stealth.si
 domain:open.tracker.cl
+domain:opentracker.io
 domain:rekcart.duckdns.org
 domain:retracker.lanta.me
-domain:run.publictracker.xyz
 domain:shahidrazi.online
 domain:t.213891.xyz
 domain:t.overflow.biz
 domain:torrent.tracker.durukanbal.com
-domain:torrentclub.online
 domain:tr.highstar.shop
 domain:tr.kxmp.cf
 domain:tr.nyacat.pw
+domain:tr.zukizuki.org
 domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
 domain:tracker.1h.is
@@ -55,7 +51,6 @@ domain:tracker.gcrenwp.top
 domain:tracker.ghostchu-services.top
 domain:tracker.gmi.gd
 domain:tracker.iochimari.moe
-domain:tracker.iperson.xyz
 domain:tracker.ixuexi.click
 domain:tracker.moeblog.cn
 domain:tracker.moeking.me
