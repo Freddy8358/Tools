@@ -5,6 +5,7 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 # 禁止BT
 domain:004430.xyz
 domain:1337.abcvg.info
+domain:6ahddutb1ucc3cp.ru
 domain:aboutbeautifulgallopinghorsesinthegreenpasture.online
 domain:admin.52ywp.com
 domain:bandito.byterunner.io
@@ -17,6 +18,7 @@ domain:ipv4announce.sktorrent.eu
 domain:leet-tracker.moe
 domain:martin-gebhardt.eu
 domain:ns575949.ip-51-222-82.net
+domain:open.demonii.com
 domain:open.ftorrent.com
 domain:open.stealth.si
 domain:pybittrack.retiolus.net
@@ -24,16 +26,14 @@ domain:rekcart.duckdns.org
 domain:seedpeer.net
 domain:t.213891.xyz
 domain:t.overflow.biz
-domain:torrent.bowed.net
 domain:torrentclub.online
 domain:torrents.tmtime.dev
 domain:tr.highstar.shop
 domain:tr.kxmp.cf
+domain:tr.nyacat.pw
 domain:tr4ck3r.duckdns.org
-domain:tracker-udp.gbitt.info
 domain:tracker.004430.xyz
 domain:tracker.1h.is
-domain:tracker.23794.top
 domain:tracker.7471.top
 domain:tracker.bittor.pw
 domain:tracker.bluefrog.pw
@@ -51,7 +51,6 @@ domain:tracker.ghostchu-services.top
 domain:tracker.gmi.gd
 domain:tracker.hismz.cn
 domain:tracker.iperson.xyz
-domain:tracker.moeking.me
 domain:tracker.mywaifu.best
 domain:tracker.nekomi.cn
 domain:tracker.nyaa.vc
@@ -68,7 +67,6 @@ domain:tracker.t-1.org
 domain:tracker.theoks.net
 domain:tracker.torrent.eu.org
 domain:tracker.torrust-demo.com
-domain:tracker.tritan.gg
 domain:tracker.tryhackx.org
 domain:tracker.tvunderground.org.ru
 domain:tracker.waaa.moe
@@ -83,6 +81,5 @@ domain:udp1.torrust-tracker-demo.com
 domain:utracker.ghostchu-services.top
 domain:vito-tracker.duckdns.org
 domain:vito-tracker.space
-domain:wepzone.net
 domain:www.nartlof.com
 domain:yuptracker-eu.gaijinent.com
