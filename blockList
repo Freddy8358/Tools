@@ -4,16 +4,14 @@ regexp:(.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
 
 # 禁止BT
 domain:004430.xyz
-domain:0123456789nonexistent.com
 domain:0d.kebhana.mx
 domain:1337.abcvg.info
 domain:admin.52ywp.com
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:bt.poletracker.org
 domain:bt1.xxxxbt.cc
-domain:buny.uk
+domain:concen.org
 domain:evan.im
-domain:exodus.desync.com
 domain:explodie.org
 domain:home.yxgz.club
 domain:ipv4announce.sktorrent.eu
@@ -32,12 +30,13 @@ domain:retracker01-msk-virt.corbina.net
 domain:seeders-paradise.org
 domain:seedpeer.net
 domain:share.hkg-fansub.info
+domain:shubt.net
 domain:t.213891.xyz
 domain:t.overflow.biz
-domain:torrent.hificode.in
 domain:torrentclub.online
 domain:torrents.tmtime.dev
 domain:tr.kxmp.cf
+domain:tr.nyacat.pw
 domain:tr.zukizuki.org
 domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
@@ -46,8 +45,6 @@ domain:tracker.7471.top
 domain:tracker.auctor.tv
 domain:tracker.bittor.pw
 domain:tracker.bluefrog.pw
-domain:tracker.bt-hash.com
-domain:tracker.bt4g.com
 domain:tracker.bz
 domain:tracker.corpscorp.online
 domain:tracker.ddunlimited.net
@@ -55,10 +52,11 @@ domain:tracker.dhitechnical.com
 domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.dmcomic.org
+domain:tracker.filemail.com
 domain:tracker.flatuslifir.is
+domain:tracker.gcrenwp.top
 domain:tracker.gmi.gd
 domain:tracker.hismz.cn
-domain:tracker.iperson.xyz
 domain:tracker.ipv6tracker.org
 domain:tracker.leechshield.link
 domain:tracker.lintk.me
@@ -69,16 +67,16 @@ domain:tracker.opentorrent.top
 domain:tracker.opentrackr.org
 domain:tracker.peerfect.org
 domain:tracker.playground.ru
+domain:tracker.plx.im
 domain:tracker.pmman.tech
 domain:tracker.privateseedbox.xyz
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
+domain:tracker.renfei.net
 domain:tracker.sbsub.com
 domain:tracker.t-1.org
-domain:tracker.therarbg.to
 domain:tracker.torrent.eu.org
 domain:tracker.tritan.gg
-domain:tracker.tryhackx.org
 domain:tracker.vanitycore.co
 domain:tracker.waaa.moe
 domain:tracker.wildkat.net
@@ -87,7 +85,6 @@ domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.com
 domain:tracker2.dler.org
 domain:tracker810.xyz
-domain:udp.tracker.projectk.org
 domain:www.genesis-sp.org
 domain:www.torrentsnipe.info
 domain:yuptracker-eu.gaijinent.com
