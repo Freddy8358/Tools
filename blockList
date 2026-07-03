@@ -10,6 +10,7 @@ domain:admin.52ywp.com
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:concen.org
 domain:evan.im
+domain:exodus.desync.com
 domain:explodie.org
 domain:ipv4announce.sktorrent.eu
 domain:leet-tracker.moe
@@ -19,6 +20,7 @@ domain:open.demonii.com
 domain:open.demonoid.ch
 domain:open.ftorrent.com
 domain:open.stealth.si
+domain:pybittrack.retiolus.net
 domain:rekcart.duckdns.org
 domain:retracker01-msk-virt.corbina.net
 domain:shahidrazi.online
@@ -30,10 +32,8 @@ domain:tr.btube3.com
 domain:tr.highstar.shop
 domain:tr.kxmp.cf
 domain:tr.nyacat.pw
-domain:tr.zukizuki.org
+domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
-domain:tracker.004430.xyz
-domain:tracker.23794.top
 domain:tracker.7471.top
 domain:tracker.auctor.tv
 domain:tracker.bittor.pw
@@ -45,18 +45,19 @@ domain:tracker.dhitechnical.com
 domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.ducks.party
-domain:tracker.fnix.net
+domain:tracker.flatuslifir.is
+domain:tracker.gcrenwp.top
 domain:tracker.gmi.gd
 domain:tracker.hismz.cn
 domain:tracker.leechshield.link
 domain:tracker.mywaifu.best
 domain:tracker.nekomi.cn
-domain:tracker.nyaa.vc
 domain:tracker.opentorrent.top
 domain:tracker.opentrackr.org
 domain:tracker.peerfect.org
 domain:tracker.playground.ru
 domain:tracker.plx.im
+domain:tracker.pmman.tech
 domain:tracker.privateseedbox.xyz
 domain:tracker.publictracker.xyz
 domain:tracker.qu.ax
@@ -69,4 +70,3 @@ domain:tracker.yemekyedim.com
 domain:tracker.zhuqiy.com
 domain:tracker2.dler.org
 domain:yuptracker-eu.gaijinent.com
-domain:zer0day.ch
