@@ -31,7 +31,6 @@ domain:open.demonii.com
 domain:open.demonoid.ch
 domain:open.ftorrent.com
 domain:open.stealth.si
-domain:open.tracker.cl
 domain:open.trackerlist.xyz
 domain:pybittrack.retiolus.net
 domain:rekcart.duckdns.org
@@ -46,12 +45,13 @@ domain:t.213891.xyz
 domain:t.overflow.biz
 domain:torrent.hificode.in
 domain:torrentclub.online
-domain:tr.highstar.shop
 domain:tr.kxmp.cf
 domain:tr.nyacat.pw
 domain:tr.zukizuki.org
+domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
 domain:tracker.0x7c0.com
+domain:tracker.23794.top
 domain:tracker.7471.top
 domain:tracker.aruku.ovh
 domain:tracker.auctor.tv
@@ -66,6 +66,7 @@ domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.dmcomic.org
 domain:tracker.ducks.party
+domain:tracker.filemail.com
 domain:tracker.gcrenwp.top
 domain:tracker.gmi.gd
 domain:tracker.ilibr.org
@@ -76,10 +77,12 @@ domain:tracker.moxing.party
 domain:tracker.mywaifu.best
 domain:tracker.nekomi.cn
 domain:tracker.nexusstream.eu
+domain:tracker.opentorrent.top
 domain:tracker.opentrackr.com
 domain:tracker.opentrackr.org
 domain:tracker.peerfect.org
 domain:tracker.playground.ru
+domain:tracker.plx.im
 domain:tracker.pmman.tech
 domain:tracker.privateseedbox.xyz
 domain:tracker.publictracker.xyz
@@ -88,8 +91,7 @@ domain:tracker.renfei.net
 domain:tracker.sbsub.com
 domain:tracker.skynetcloud.site
 domain:tracker.teambelgium.net
-domain:tracker.therarbg.to
-domain:tracker.torrent.eu.org
+domain:tracker.tryhackx.org
 domain:tracker.waaa.moe
 domain:tracker.wildkat.net
 domain:tracker.xiaoduola.xyz
@@ -99,4 +101,3 @@ domain:tracker2.dler.org
 domain:tracker810.xyz
 domain:www.genesis-sp.org
 domain:www.torrentsnipe.info
-domain:zer0day.ch
