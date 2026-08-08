@@ -16,6 +16,7 @@ domain:bt1.xxxxbt.cc
 domain:buny.uk
 domain:edgev.duckdns.org
 domain:evan.im
+domain:exodus.desync.com
 domain:explodie.org
 domain:home.yxgz.club
 domain:ipv4announce.sktorrent.eu
@@ -30,6 +31,7 @@ domain:open.demonoid.ch
 domain:open.ftorrent.com
 domain:open.stealth.si
 domain:open.tracker.cl
+domain:open.trackerlist.xyz
 domain:pybittrack.retiolus.net
 domain:rekcart.duckdns.org
 domain:retracker.spark-rostov.ru
@@ -42,7 +44,6 @@ domain:t.213891.xyz
 domain:t.overflow.biz
 domain:torrent.hificode.in
 domain:torrentclub.online
-domain:tr.btube3.com
 domain:tr.kxmp.cf
 domain:tr.nyacat.pw
 domain:tr.zukizuki.org
@@ -78,7 +79,6 @@ domain:tracker.opentrackr.com
 domain:tracker.opentrackr.org
 domain:tracker.peerfect.org
 domain:tracker.playground.ru
-domain:tracker.plx.im
 domain:tracker.pmman.tech
 domain:tracker.privateseedbox.xyz
 domain:tracker.publictracker.xyz
@@ -86,10 +86,11 @@ domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.sbsub.com
 domain:tracker.teambelgium.net
+domain:tracker.theoks.net
 domain:tracker.torrent.eu.org
+domain:tracker.tryhackx.org
 domain:tracker.waaa.moe
 domain:tracker.wildkat.net
-domain:tracker.xiaoduola.xyz
 domain:tracker.zhuqiy.com
 domain:tracker.zhuqiy.dgj055.icu
 domain:tracker2.dler.org
