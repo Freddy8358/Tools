@@ -11,6 +11,7 @@ domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:evan.im
 domain:exodus.desync.com
 domain:explodie.org
+domain:ht.therarbg.to
 domain:ipv4announce.sktorrent.eu
 domain:kolanopentracker.airdns.org
 domain:mail.segso.net
@@ -32,7 +33,6 @@ domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
 domain:tracker.004430.xyz
 domain:tracker.0x7c0.com
-domain:tracker.23794.top
 domain:tracker.7471.top
 domain:tracker.aruku.ovh
 domain:tracker.bittor.pw
@@ -45,6 +45,8 @@ domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.ducks.party
 domain:tracker.farted.net
+domain:tracker.filemail.com
+domain:tracker.flatuslifir.is
 domain:tracker.foreverpirates.co
 domain:tracker.gmi.gd
 domain:tracker.govt.hu
@@ -63,8 +65,10 @@ domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.teambelgium.net
+domain:tracker.theoks.net
 domain:tracker.torrent.eu.org
 domain:tracker.torrents.observer
+domain:tracker.tryhackx.org
 domain:tracker.waaa.moe
 domain:tracker.wildkat.net
 domain:tracker.zhuqiy.com
