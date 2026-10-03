@@ -11,6 +11,7 @@ domain:archive.torrentonline.cc
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:edgev.duckdns.org
 domain:evan.im
+domain:exodus.desync.com
 domain:explodie.org
 domain:ipv4announce.sktorrent.eu
 domain:kolankoalastree.newtrackon.co.nz
@@ -21,12 +22,12 @@ domain:open.demonii.com
 domain:open.ftorrent.com
 domain:open.stealth.si
 domain:open.tracker.cl
+domain:pybittrack.retiolus.net
 domain:retracker01-msk-virt.corbina.net
-domain:seedpeer.net
 domain:t.213891.xyz
 domain:t.overflow.biz
+domain:tr.btube3.com
 domain:tr.nyacat.pw
-domain:tr3.ysagin.top
 domain:tr4ck3r.duckdns.org
 domain:tracker-udp.gbitt.info
 domain:tracker.004430.xyz
@@ -49,6 +50,7 @@ domain:tracker.mywaifu.best
 domain:tracker.nekomi.cn
 domain:tracker.nyaa.net
 domain:tracker.nyaa.vc
+domain:tracker.opentorrent.top
 domain:tracker.opentrackr.com
 domain:tracker.opentrackr.org
 domain:tracker.peerfect.org
@@ -57,7 +59,7 @@ domain:tracker.pmman.tech
 domain:tracker.qu.ax
 domain:tracker.renfei.net
 domain:tracker.skynetcloud.site
-domain:tracker.teambelgium.net
+domain:tracker.theoks.net
 domain:tracker.torrent.eu.org
 domain:tracker.torrents.observer
 domain:tracker.tryhackx.org
@@ -66,5 +68,4 @@ domain:tracker.wildkat.net
 domain:tracker.zhuqiy.com
 domain:tracker.zhuqiy.dgj055.icu
 domain:tracker2.dler.org
-domain:whybother.torrentonline.cc
 domain:yuptracker-eu.gaijinent.com
