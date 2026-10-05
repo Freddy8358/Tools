@@ -10,6 +10,7 @@ domain:anime-tracker.aruku.kro.kr
 domain:bittorrent-tracker.e-n-c-r-y-p-t.net
 domain:edgev.duckdns.org
 domain:evan.im
+domain:exodus.desync.com
 domain:explodie.org
 domain:ipv4announce.sktorrent.eu
 domain:kolankoalastree.newtrackon.co.nz
@@ -22,7 +23,6 @@ domain:open.stealth.si
 domain:open.tracker.cl
 domain:pybittrack.retiolus.net
 domain:retracker01-msk-virt.corbina.net
-domain:seedpeer.net
 domain:t.213891.xyz
 domain:t.overflow.biz
 domain:tr.nyacat.pw
@@ -34,6 +34,7 @@ domain:tracker.23794.top
 domain:tracker.7471.top
 domain:tracker.aruku.ovh
 domain:tracker.bittor.pw
+domain:tracker.bug38.com
 domain:tracker.cn.nyaa.net
 domain:tracker.corpscorp.online
 domain:tracker.ddunlimited.net
@@ -41,11 +42,13 @@ domain:tracker.dhitechnical.com
 domain:tracker.dler.com
 domain:tracker.dler.org
 domain:tracker.ducks.party
+domain:tracker.farted.net
 domain:tracker.filemail.com
 domain:tracker.fnix.net
 domain:tracker.foreverpirates.co
 domain:tracker.gmi.gd
 domain:tracker.ilibr.org
+domain:tracker.k.vu
 domain:tracker.mywaifu.best
 domain:tracker.nekomi.cn
 domain:tracker.nyaa.net
@@ -60,11 +63,9 @@ domain:tracker.renfei.net
 domain:tracker.skynetcloud.site
 domain:tracker.theoks.net
 domain:tracker.torrent.eu.org
-domain:tracker.torrents.observer
 domain:tracker.tryhackx.org
 domain:tracker.waaa.moe
 domain:tracker.wildkat.net
-domain:tracker.zhuqiy.com
 domain:tracker.zhuqiy.dgj055.icu
 domain:tracker2.dler.org
 domain:yuptracker-eu.gaijinent.com
